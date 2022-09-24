@@ -1,7 +1,7 @@
 ---
 layout: home
 hero:
-  name: Lsgfish-resource-collection
+  name: lsgfish-resource-sharing
   text: 资源收藏与分享
   tagline: 本站不生产资源，本站只是网络资源的收集点
   image:
@@ -13,7 +13,7 @@ hero:
       link: /overview/index
     - theme: alt
       text: View on Gitee
-      link: https://gitee.com/lets-go-fishing/lsgfish-resource-collection
+      link: https://gitee.com/lets-go-fishing/lsgfish-resource-sharing
 
 features:
   - icon: 📃

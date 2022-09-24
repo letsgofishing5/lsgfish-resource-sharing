@@ -1,19 +1,19 @@
 import { defineConfig } from "vitepress";
 export default defineConfig({
-  base: "/lsgfish-resource-collection/",
+  base: "/lsgfish-resource-sharing/",
   title: "资源收藏与分享",
   lang: "zh-CN",
   description: "收集学习，娱乐资源",
   themeConfig: {
     editLink: {
       pattern:
-        "https://gitee.com/lets-go-fishing/lsgfish-resource-collection/issues",
+        "https://gitee.com/lets-go-fishing/lsgfish-resource-sharing/issues",
       text: "为此页提供修改建议",
     },
     algolia: {
       appId: "DM1B8XXB9T",
       apiKey: "62c13e68978edd63e4e91d03970e2f52",
-      indexName: "lsgfish-resource-collection",
+      indexName: "lsgfish-resource-sharing",
       initialQuery: "",
       searchParameters: {},
     },

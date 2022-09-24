@@ -1,8 +1,8 @@
 {
-  "name": "lsgfish-resource-collection",
+  "name": "lsgfish-resource-sharing",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://gitee.com/lets-go-fishing/lsgfish-resource-collection.git",
+  "repository": "https://gitee.com/lets-go-fishing/lsgfish-resource-sharing.git",
   "author": "Lsgofish <1113237401@qq.com>",
   "license": "MIT",
   "scripts": {
