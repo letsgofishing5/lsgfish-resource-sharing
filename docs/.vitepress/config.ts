@@ -1,0 +1,211 @@
+import { defineConfig } from "vitepress";
+export default defineConfig({
+  base: "/lsgfish-resource-collection/",
+  title: "资源收藏与分享",
+  lang: "zh-CN",
+  description: "收集学习，娱乐资源",
+  themeConfig: {
+    editLink: {
+      pattern:
+        "https://gitee.com/lets-go-fishing/lsgfish-resource-collection/issues",
+      text: "为此页提供修改建议",
+    },
+    algolia: {
+      appId: "DM1B8XXB9T",
+      apiKey: "62c13e68978edd63e4e91d03970e2f52",
+      indexName: "lsgfish-resource-collection",
+      initialQuery: "",
+      searchParameters: {},
+    },
+    nav: [
+      { text: "信息公告", link: "/overview/index.md" },
+
+      // 新增
+      {
+        text: "学习",
+        items: learn(),
+      },
+      {
+        text: "娱乐",
+        items: amuse(),
+      },
+      {
+        text: "工具",
+        items: utils(),
+      },
+      {
+        text: "导航站点",
+        link: "/nav/index.md",
+      },
+      {
+        text: "书源",
+        link: "/book/booksource.md",
+      },
+      {
+        text: "第三方资源站点链接",
+        link: "/third/index.md",
+      },
+      {
+        text: "交流群",
+        link: "/CommunicationGroup/index.md",
+      },
+    ],
+    // sidebar: {
+    //   "/overview/introduction": [
+    //     {
+    //       text: "学习",
+    //       collapsible: true,
+    //       collapsed: true,
+    //       items: [
+    //         {
+    //           text: "前端",
+    //           items: [
+    //             {
+    //               text: "Html & CSS",
+    //               link: "/programme/Html&CSS.md",
+    //             },
+    //             {
+    //               text: "JavaScript",
+    //               link: "/programme/JavaScript.md",
+    //             },
+    //             {
+    //               text: "TypeScript",
+    //               link: "/programme/TypeScript.md",
+    //             },
+    //             {
+    //               text: "桌面端",
+    //               link: "/programme/桌面端.md",
+    //             },
+    //           ],
+    //         },
+    //         {
+    //           text: "后端",
+    //           items: [
+    //             {
+    //               text: "Java",
+    //               link: "/programme/Java.md",
+    //             },
+    //             {
+    //               text: "Goland",
+    //               link: "/programme/Goland.md",
+    //             },
+    //             {
+    //               text: "Linux",
+    //               link: "/programme/Linux.md",
+    //             },
+    //           ],
+    //         },
+    //         {
+    //           text: "文章阅读",
+    //           link: "/lean/article.md",
+    //         },
+    //         {
+    //           text: "工具集合",
+    //           link: "/lean/utils.md",
+    //         },
+    //       ],
+    //     },
+    //     {
+    //       text: "第三方资源链接",
+    //       link: "/third/resource-link.md",
+    //     },
+    //   ],
+    // },
+    footer: {
+      message: "资源来自网络搜索，侵权请联系删除",
+      copyright: "Copyright © 2022-present 走我们钓鱼去",
+    },
+  },
+});
+/**
+ * 工具
+ * @returns
+ */
+function utils() {
+  return [
+    {
+      text: "软件类",
+      link: "/utils/software.md",
+    },
+    {
+      text: "实体类",
+      link: "/utils/entity.md",
+    },
+    {
+      text: "搜索引擎",
+      link: "/utils/search.md",
+    },
+  ];
+}
+/**
+ * 娱乐
+ * @returns
+ */
+function amuse() {
+  return [
+    {
+      text: "视频",
+      link: "/amuse/video.md",
+    },
+    {
+      text: "音乐",
+      link: "/amuse/music.md",
+    },
+    {
+      text: "图库",
+      link: "/amuse/image.md",
+    },
+    {
+      text: "休闲",
+      link: "/amuse/leisure.md",
+    },
+    {
+      text: "扫一扫领取红包",
+      link: "/amuse/redWrap.md",
+    },
+  ];
+}
+/**
+ * 学习
+ * @returns
+ */
+function learn() {
+  return [
+    {
+      text: "编程",
+      items: program(),
+    },
+    {
+      text: "医学",
+      link: "/learn/medical/medical.md",
+    },
+  ];
+}
+/**
+ * 程序
+ * @returns
+ */
+function program() {
+  return [
+    {
+      text: "前端",
+      link: "/learn/program/web.md",
+    },
+    {
+      text: "后端",
+      link: "/learn/program/serve.md",
+    },
+    {
+      text: "UI",
+      link: "/learn/program/UI.md",
+    },
+    {
+      text: "运维",
+      link: "/learn/program/operation.md",
+    },
+    {
+      text: "github开源项目",
+      link: "https://hellogithub.com/",
+    },
+  ];
+}
