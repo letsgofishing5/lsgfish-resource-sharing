@@ -72,7 +72,8 @@
   - [Quasar2中文文档](https://quasar-cn.vercel.app/)
   - [Quasar中文指南](http://v0-16.quasarchs.com/guide/)
   - [Quasar2英文文档](https://quasar.dev/)
-  - [Quasar2入门教学视频](https://www.bilibili.com/video/BV1pA4y197Zc/?spm_id_from=333.788.video.desc.click&vd_source=4db4edf8e68a4ceac9f0a41212e6f026)
+  - [Quasar2中文入门教学视频](https://www.bilibili.com/video/BV1pA4y197Zc/?spm_id_from=333.788.video.desc.click&vd_source=4db4edf8e68a4ceac9f0a41212e6f026)
+  - [Quasar2官网视频教程](https://www.youtube.com/watch?v=CkHM8VLxuus)：此视频外网地址，国内访问需要特殊通道
   
 - [Electron](https://www.electronjs.org/)
 - [Tauri](https://tauri.app/zh/)
