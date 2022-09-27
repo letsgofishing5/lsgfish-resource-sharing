@@ -45,6 +45,5 @@
 - [知识指南](https://zh.wikihow.com/%E9%A6%96%E9%A1%B5)
 - [免费的砖-前端](https://www.thosefree.com/web)
 - [一站式音乐聚合搜索](https://iui.su/3310/)
-- [喜欢蜜桃臀小姐姐的，可以关注一下](https://iui.su/3744/)
 - [百度网盘快速下载](https://kinhdown.kinh.cc/?Type=FrontPage)
 - 
