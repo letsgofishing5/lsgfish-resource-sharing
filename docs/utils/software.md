@@ -4,11 +4,34 @@
 点击右上角交流群加入群聊
 :::
 
+## VPN
+
+[老王vpn: ](http://fescp.laowang123.cc:9999/invite?code=xsfqgor9)
+
+ 给大家安利个神奇的软件，永久免费使用！
+速度超快，秒开油管、Ins，还能看奈飞、Hulu、HBO、动画疯、TVB、Apple TV...
+地区很丰富，香港、台湾、美国原生、日本原生全都有。
+立即使用老王vpn: http://fescp.laowang123.cc:9999/invite?code=xsfqgor9 
+
+## 图片在线压缩
+
+[Squoosh](https://squoosh.app/)
+
+是一个图像压缩Web应用程序，可通过多种格式减小图像大小
+
 ## 小说阅读app
 
 #### 开源阅读
 
-[软件下载](https://kunfei.lanzoui.com/b0f810h4b)<br>[站内跳转：书源](/book/booksource.md#源仓库)<br>[开源阅读3.0论坛](https://www.5yd.cc/thread-38.htm)<br>[github开源地址](https://github.com/gedoor/legado)<br>[gitee开源地址](https://gitee.com/mirrors/Legado?_from=gitee_search#%E9%98%85%E8%AF%BB30)
+[软件下载](https://kunfei.lanzoui.com/b0f810h4b)
+
+[站内跳转：书源](/book/booksource.md#源仓库)
+
+[开源阅读3.0论坛](https://www.5yd.cc/thread-38.htm)
+
+[github开源地址](https://github.com/gedoor/legado)
+
+[gitee开源地址](https://gitee.com/mirrors/Legado?_from=gitee_search#%E9%98%85%E8%AF%BB30)
 
 - 自定义书源，自己设置规则，抓取网页数据，规则简单易懂，软件内有规则说明。
 - 列表书架，网格书架自由切换。

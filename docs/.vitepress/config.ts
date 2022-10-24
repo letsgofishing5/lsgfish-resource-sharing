@@ -19,8 +19,6 @@ export default defineConfig({
     },
     nav: [
       { text: "信息公告", link: "/overview/index.md" },
-
-      // 新增
       {
         text: "学习",
         items: learn(),
@@ -32,10 +30,6 @@ export default defineConfig({
       {
         text: "工具",
         items: utils(),
-      },
-      {
-        text: "导航站点",
-        link: "/nav/index.md",
       },
       {
         text: "书源",
@@ -50,67 +44,6 @@ export default defineConfig({
         link: "/CommunicationGroup/index.md",
       },
     ],
-    // sidebar: {
-    //   "/overview/introduction": [
-    //     {
-    //       text: "学习",
-    //       collapsible: true,
-    //       collapsed: true,
-    //       items: [
-    //         {
-    //           text: "前端",
-    //           items: [
-    //             {
-    //               text: "Html & CSS",
-    //               link: "/programme/Html&CSS.md",
-    //             },
-    //             {
-    //               text: "JavaScript",
-    //               link: "/programme/JavaScript.md",
-    //             },
-    //             {
-    //               text: "TypeScript",
-    //               link: "/programme/TypeScript.md",
-    //             },
-    //             {
-    //               text: "桌面端",
-    //               link: "/programme/桌面端.md",
-    //             },
-    //           ],
-    //         },
-    //         {
-    //           text: "后端",
-    //           items: [
-    //             {
-    //               text: "Java",
-    //               link: "/programme/Java.md",
-    //             },
-    //             {
-    //               text: "Goland",
-    //               link: "/programme/Goland.md",
-    //             },
-    //             {
-    //               text: "Linux",
-    //               link: "/programme/Linux.md",
-    //             },
-    //           ],
-    //         },
-    //         {
-    //           text: "文章阅读",
-    //           link: "/lean/article.md",
-    //         },
-    //         {
-    //           text: "工具集合",
-    //           link: "/lean/utils.md",
-    //         },
-    //       ],
-    //     },
-    //     {
-    //       text: "第三方资源链接",
-    //       link: "/third/resource-link.md",
-    //     },
-    //   ],
-    // },
     footer: {
       message: "资源来自网络搜索，侵权请联系删除",
       copyright: "Copyright © 2022-present 走我们钓鱼去",
