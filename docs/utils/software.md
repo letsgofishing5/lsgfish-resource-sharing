@@ -5,7 +5,7 @@
 点击右上角交流群加入群聊
 :::
 
-## 墙？
+## 西方恶龙
 
 ### edge 插件
 
@@ -13,7 +13,7 @@
 
 ### 老王
 
-[下载](http://fescp.laowang123.cc:9999/invite?code=xsfqgor9)
+<!-- [下载](http://fescp.laowang123.cc:9999/invite?code=xsfqgor9) -->
 
 ### ABC
 
