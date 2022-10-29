@@ -9,7 +9,7 @@
 
 ### edge 插件
 
-浏览器插件：[ Edge 浏览器外接程序市场](https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home?hl=zh-CN)搜索：iGoogle 科学上网助手
+浏览器插件：Edge 浏览器外接程序市场搜索：iGoogle 科学上网助手
 
 <!-- ### 老王 -->
 
