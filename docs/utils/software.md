@@ -7,13 +7,14 @@
 
 ## 西方恶龙
 
-### edge 插件
+<!-- ### edge 插件
 
-浏览器插件：Edge 浏览器外接程序市场搜索：iGoogle 科学上网助手
+[iGoogle科学上网助手 - 免费梯子 - Microsoft Edge Addons](https://microsoftedge.microsoft.com/addons/detail/igoogle科学上网助手-免费梯子/fhibckoignjicaiaimhcmoegkldpcgbe?hl=zh-CN) -->
 
-<!-- ### 老王 -->
+### 老王
 
-<!-- [下载](http://fescp.laowang123.cc:9999/invite?code=xsfqgor9) -->
+[下载](http://fescp.laowang123.cc:9999/invite?code=xsfqgor9)
+
 <!--
 ### ABC
 
