@@ -5,9 +5,9 @@
 点击右上角交流群加入群聊
 :::
 
-## 加速器
+## 墙？
 
-### edge浏览器科学上网
+### edge插件
 
 浏览器插件：[ Edge 浏览器外接程序市场](https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home?hl=zh-CN)搜索：iGoogle科学上网助手
 
