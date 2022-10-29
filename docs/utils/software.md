@@ -9,29 +9,12 @@
 
 ### edge浏览器科学上网
 
-浏览器插件：[iGoogle科学上网助手 ](https://microsoftedge.microsoft.com/addons/detail/igoogle科学上网助手-免费梯子/fhibckoignjicaiaimhcmoegkldpcgbe?hl=zh-CN)
-
-```
-专门为中国大陆地区科研、外贸、跨境电商、海淘人员、开发人员服务的科学上网加速工具，针对Edge浏览器专门优化!
-可以访问谷歌google搜索，gmail邮箱，google地图，google广告，谷歌翻译，google play等谷歌系列产品。请勿用于其他非法用途。
-
-iGoogle谷歌助手一键安装，免费试用，无需其他配置。
-目前服务器稳定且无流量限制，但带宽有限，请按需使用。
-
-使用本插件可以免费上：
- - www.google.com     谷歌搜索
- - mail.google.com   gmail邮箱
- - translate.google.com   谷歌翻译
-```
+浏览器插件：[ Edge 浏览器外接程序市场](https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home?hl=zh-CN)搜索：iGoogle科学上网助手
 
 ### 老王
 
-[老王](http://fescp.laowang123.cc:9999/invite?code=xsfqgor9)
+[软件下载](http://fescp.laowang123.cc:9999/invite?code=xsfqgor9)
 
-给大家安利个神奇的软件，永久免费使用！
-速度超快，秒开油管、Ins，还能看奈飞、Hulu、HBO、动画疯、TVB、Apple TV...
-地区很丰富，香港、台湾、美国原生、日本原生全都有。
-立即使用 http://fescp.laowang123.cc:9999/invite?code=xsfqgor9
 
 ### ABC
 
