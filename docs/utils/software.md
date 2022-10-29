@@ -9,7 +9,7 @@
 
 ### edge 插件
 
-<!-- 浏览器插件：[ Edge 浏览器外接程序市场](https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home?hl=zh-CN)搜索：iGoogle科学上网助手 -->
+浏览器插件：[ Edge 浏览器外接程序市场](https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home?hl=zh-CN)搜索：iGoogle 科学上网助手
 
 <!-- ### 老王 -->
 
@@ -17,7 +17,7 @@
 
 ### ABC
 
-<!-- [ABC地址](http://adabc1.net/2gk9t) -->
+[下载](http://adabc1.net/2gk9t)
 
 ## 图片在线压缩
 
