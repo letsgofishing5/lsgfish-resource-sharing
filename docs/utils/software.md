@@ -7,7 +7,12 @@
 
 ## 恶龙咆哮
 
-[老王](http://fescp.laowang123.cc:9999/invite?code=xsfqgor9)
+完整信息：https://wwp.lanzoue.com/iJoAn0etvwsf
+
+安卓版：https://wwp.lanzoue.com/iwcfg0etvm9g
+密码:7a3q
+
+windows版：https://wwp.lanzoue.com/iYWsX0etviad
 
 ## 图片在线压缩
 
@@ -29,16 +34,6 @@
 
 [gitee 开源地址](https://gitee.com/mirrors/Legado?_from=gitee_search#%E9%98%85%E8%AF%BB30)
 
-- 自定义书源，自己设置规则，抓取网页数据，规则简单易懂，软件内有规则说明。
-- 列表书架，网格书架自由切换。
-- 书源规则支持搜索及发现，所有找书看书功能全部自定义，找书更方便。
-- 订阅内容,可以订阅想看的任何内容,看你想看
-- 支持替换净化，去除广告替换内容很方便。
-- 支持本地 TXT、EPUB 阅读，手动浏览，智能扫描。
-- 支持高度自定义阅读界面，切换字体、颜色、背景、行距、段距、加粗、简繁转换等。
-- 支持多种翻页模式，覆盖、仿真、滑动、滚动等。
-- 软件开源，持续优化，无广告。
-
 #### 搜书大师
 
 :::tip
@@ -47,17 +42,16 @@
 
 ## 漫画阅读 app
 
+#### 爱看动漫
+
+下载：https://wwp.lanzoue.com/iyKgI0etvqta
+密码:6web
+
 #### clicli 动漫
 
 [下载](https://clicli.app/)
 
-#### 爱看动漫
 
-:::warning
-
-暂时没找到好的分享方式，如果需要可以单对单分享
-
-:::
 
 ## 工具箱
 
