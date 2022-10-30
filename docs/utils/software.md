@@ -7,13 +7,7 @@
 
 ## 恶龙咆哮
 
-找群主私聊，话题有点敏感导致内容无法上传
-
-<!-- [iGoogle 科学上网助手](https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home?hl=zh-CN)
-
 [老王](http://fescp.laowang123.cc:9999/invite?code=xsfqgor9)
-
-[ABC](http://adabc1.net/2gk9t) -->
 
 ## 图片在线压缩
 
