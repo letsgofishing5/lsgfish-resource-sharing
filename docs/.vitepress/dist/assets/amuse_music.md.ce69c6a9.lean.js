@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,a as r}from"./app.35949fa0.js";const m=JSON.parse('{"title":"\u97F3\u4E50","description":"","frontmatter":{},"headers":[],"relativePath":"amuse/music.md"}'),n={name:"amuse/music.md"},o=r("",5),s=[o];function p(_,c,i,h,l,d){return a(),t("div",null,s)}const u=e(n,[["render",p]]);export{m as __pageData,u as default};

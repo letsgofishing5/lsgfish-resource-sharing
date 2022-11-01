@@ -94,69 +94,282 @@ export default defineConfig({
           ],
         },
       ],
-      "/platform/web": [
+      "/learn": [
         {
-          text: "Web端",
+          text: "总览",
           items: [
             {
-              text: "UI库",
-              link: "/platform/web/ui",
+              text: "介绍",
+              link: "/overview/index.md",
             },
+          ],
+        },
+        {
+          text: "学习",
+          collapsible: true,
+          collapsed: true,
+          items: learn(),
+        },
+        {
+          text: "娱乐",
+          collapsible: true,
+          collapsed: true,
+          items: amuse(),
+        },
+        {
+          text: "工具",
+          collapsible: true,
+          collapsed: true,
+          items: utils(),
+        },
+        {
+          text: "书源",
+          items: [
             {
-              text: "开箱即用",
-              link: "/platform/web/manage",
+              text: "书源",
+              link: "/book/booksource.md",
             },
+          ],
+        },
+        {
+          text: "第三方资源站点链接",
+          items: [
             {
-              text: "富文本编辑器",
-              link: "/platform/web/editor",
+              text: "第三方资源站点链接",
+              link: "/third/index.md",
             },
+          ],
+        },
+        {
+          text: "交流群",
+          items: [
             {
-              text: "markdown编辑器",
-              link: "/platform/web/markdown",
+              text: "交流群",
+              link: "/CommunicationGroup/index.md",
             },
+          ],
+        },
+      ],
+      "/amuse": [
+        {
+          text: "总览",
+          items: [
             {
-              text: "上传组件",
-              link: "/platform/web/upload",
+              text: "介绍",
+              link: "/overview/index.md",
             },
+          ],
+        },
+        {
+          text: "学习",
+          collapsible: true,
+          collapsed: true,
+          items: learn(),
+        },
+        {
+          text: "娱乐",
+          collapsible: true,
+          collapsed: true,
+          items: amuse(),
+        },
+        {
+          text: "工具",
+          collapsible: true,
+          collapsed: true,
+          items: utils(),
+        },
+        {
+          text: "书源",
+          items: [
             {
-              text: "图片/背景组件",
-              link: "/platform/web/img-bg",
+              text: "书源",
+              link: "/book/booksource.md",
             },
+          ],
+        },
+        {
+          text: "第三方资源站点链接",
+          items: [
             {
-              text: "音频/视频组件",
-              link: "/platform/web/audio-video",
+              text: "第三方资源站点链接",
+              link: "/third/index.md",
             },
+          ],
+        },
+        {
+          text: "交流群",
+          items: [
             {
-              text: "图标库",
-              link: "/platform/web/icons",
+              text: "交流群",
+              link: "/CommunicationGroup/index.md",
             },
+          ],
+        },
+      ],
+      "/utils": [
+        {
+          text: "总览",
+          items: [
             {
-              text: "图表组件",
-              link: "/platform/web/charts",
+              text: "介绍",
+              link: "/overview/index.md",
             },
+          ],
+        },
+        {
+          text: "学习",
+          collapsible: true,
+          collapsed: true,
+          items: learn(),
+        },
+        {
+          text: "娱乐",
+          collapsible: true,
+          collapsed: true,
+          items: amuse(),
+        },
+        {
+          text: "工具",
+          collapsible: true,
+          collapsed: true,
+          items: utils(),
+        },
+        {
+          text: "书源",
+          items: [
             {
-              text: "拖拽组件",
-              link: "/platform/web/drag",
+              text: "书源",
+              link: "/book/booksource.md",
             },
+          ],
+        },
+        {
+          text: "第三方资源站点链接",
+          items: [
             {
-              text: "配套资源",
-              link: "/platform/web/include",
+              text: "第三方资源站点链接",
+              link: "/third/index.md",
             },
+          ],
+        },
+        {
+          text: "交流群",
+          items: [
             {
-              text: "文件组件",
-              link: "/platform/web/files",
+              text: "交流群",
+              link: "/CommunicationGroup/index.md",
             },
+          ],
+        },
+      ],
+      "/book": [
+        {
+          text: "总览",
+          items: [
             {
-              text: "动画库",
-              link: "/platform/web/animate",
+              text: "介绍",
+              link: "/overview/index.md",
             },
+          ],
+        },
+        {
+          text: "学习",
+          collapsible: true,
+          collapsed: true,
+          items: learn(),
+        },
+        {
+          text: "娱乐",
+          collapsible: true,
+          collapsed: true,
+          items: amuse(),
+        },
+        {
+          text: "工具",
+          collapsible: true,
+          collapsed: true,
+          items: utils(),
+        },
+        {
+          text: "书源",
+          items: [
             {
-              text: "地图组件",
-              link: "/platform/web/map",
+              text: "书源",
+              link: "/book/booksource.md",
             },
+          ],
+        },
+        {
+          text: "第三方资源站点链接",
+          items: [
             {
-              text: "其他组件",
-              link: "/platform/web/others",
+              text: "第三方资源站点链接",
+              link: "/third/index.md",
+            },
+          ],
+        },
+        {
+          text: "交流群",
+          items: [
+            {
+              text: "交流群",
+              link: "/CommunicationGroup/index.md",
+            },
+          ],
+        },
+      ],
+      "/third": [
+        {
+          text: "总览",
+          items: [
+            {
+              text: "介绍",
+              link: "/overview/index.md",
+            },
+          ],
+        },
+        {
+          text: "学习",
+          collapsible: true,
+          collapsed: true,
+          items: learn(),
+        },
+        {
+          text: "娱乐",
+          collapsible: true,
+          collapsed: true,
+          items: amuse(),
+        },
+        {
+          text: "工具",
+          collapsible: true,
+          collapsed: true,
+          items: utils(),
+        },
+        {
+          text: "书源",
+          items: [
+            {
+              text: "书源",
+              link: "/book/booksource.md",
+            },
+          ],
+        },
+        {
+          text: "第三方资源站点链接",
+          items: [
+            {
+              text: "第三方资源站点链接",
+              link: "/third/index.md",
+            },
+          ],
+        },
+        {
+          text: "交流群",
+          items: [
+            {
+              text: "交流群",
+              link: "/CommunicationGroup/index.md",
             },
           ],
         },
