@@ -55,7 +55,7 @@ windows版：https://wwp.lanzoue.com/iYWsX0etviad
 
 ## 工具箱
 
-#### 工具箱软件：[utools](https://u.tools/)
+#### [uTools - 你的生产力工具集 (u-tools.cn)](https://open.u-tools.cn/199327.html)
 
 - uTools 是一个极简、插件化的现代桌面软件，通过自由选配丰富的插件，打造得心应手的工具集合
 - 简单介绍其功能点：本地文件搜索，应用快速启动，[使用指南](https://u.tools/docs/guide/about-uTools.html#utools-%E6%98%AF%E4%BB%80%E4%B9%88)
