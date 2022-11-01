@@ -70,6 +70,16 @@
 - [Electron](https://www.electronjs.org/)
 - [Tauri](https://tauri.app/zh/)
 
+## WebGL
+
+[WebGL 简介](https://dev.opera.com/articles/introduction-to-webgl-part-1/)
+
+[WebGL 理论基础 (webglfundamentals.org)](https://webglfundamentals.org/webgl/lessons/zh_cn/)
+
+[现代 OpenGL 介绍](https://duriansoftware.com/joe/An-intro-to-modern-OpenGL.-Table-of-Contents.html)
+
+[WebGL基础教程：第一部分 - 掘金 (juejin.cn)](https://juejin.cn/post/6844903760246882318)
+
 
 
 ## 前端框架
