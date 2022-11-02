@@ -1,12 +1,17 @@
 # 公告
-::: danger 侵权
-站内资源来源网络搜索，如有侵权，非常抱歉，请联系删除
+
+::: tip 使用说明
+移动端模式下，请选择点击左上角或右上角菜单按钮进行页面选择
 :::
 ::: tip 资源更新
 资源不定时更新，在精不在多，如果你有好的资源愿意分享，欢迎进群分享
 :::
-::: warning 点个star吧
-如果觉得该站点还不错，请帮忙点个 star  👉 [⭐](https://gitee.com/lets-go-fishing/lsgfish-resource-sharing)
+::: danger 侵权
+站内资源来源网络搜索，如有侵权，非常抱歉，请联系删除
 :::
+
+<!-- ::: warning 点个star吧
+如果觉得该站点还不错，请帮忙点个 star  👉 [⭐](https://gitee.com/lets-go-fishing/lsgfish-resource-sharing)
+::: -->
 
 ## [中国法律服务网](https://ai.12348.gov.cn/pc/)
