@@ -38,342 +38,12 @@ export default defineConfig({
       },
     ],
     sidebar: {
-      "/overview/index.md": [
-        {
-          text: "总览",
-          items: [
-            {
-              text: "介绍",
-              link: "/overview/index.md",
-            },
-          ],
-        },
-        {
-          text: "学习",
-          collapsible: true,
-          collapsed: true,
-          items: learn(),
-        },
-        {
-          text: "娱乐",
-          collapsible: true,
-          collapsed: true,
-          items: amuse(),
-        },
-        {
-          text: "工具",
-          collapsible: true,
-          collapsed: true,
-          items: utils(),
-        },
-        {
-          text: "书源",
-          items: [
-            {
-              text: "书源",
-              link: "/book/booksource.md",
-            },
-          ],
-        },
-        {
-          text: "第三方资源站点链接",
-          items: [
-            {
-              text: "第三方资源站点链接",
-              link: "/third/index.md",
-            },
-          ],
-        },
-        {
-          text: "交流群",
-          items: [
-            {
-              text: "交流群",
-              link: "/CommunicationGroup/index.md",
-            },
-          ],
-        },
-      ],
-      "/learn": [
-        {
-          text: "总览",
-          items: [
-            {
-              text: "介绍",
-              link: "/overview/index.md",
-            },
-          ],
-        },
-        {
-          text: "学习",
-          collapsible: true,
-          collapsed: true,
-          items: learn(),
-        },
-        {
-          text: "娱乐",
-          collapsible: true,
-          collapsed: true,
-          items: amuse(),
-        },
-        {
-          text: "工具",
-          collapsible: true,
-          collapsed: true,
-          items: utils(),
-        },
-        {
-          text: "书源",
-          items: [
-            {
-              text: "书源",
-              link: "/book/booksource.md",
-            },
-          ],
-        },
-        {
-          text: "第三方资源站点链接",
-          items: [
-            {
-              text: "第三方资源站点链接",
-              link: "/third/index.md",
-            },
-          ],
-        },
-        {
-          text: "交流群",
-          items: [
-            {
-              text: "交流群",
-              link: "/CommunicationGroup/index.md",
-            },
-          ],
-        },
-      ],
-      "/amuse": [
-        {
-          text: "总览",
-          items: [
-            {
-              text: "介绍",
-              link: "/overview/index.md",
-            },
-          ],
-        },
-        {
-          text: "学习",
-          collapsible: true,
-          collapsed: true,
-          items: learn(),
-        },
-        {
-          text: "娱乐",
-          collapsible: true,
-          collapsed: true,
-          items: amuse(),
-        },
-        {
-          text: "工具",
-          collapsible: true,
-          collapsed: true,
-          items: utils(),
-        },
-        {
-          text: "书源",
-          items: [
-            {
-              text: "书源",
-              link: "/book/booksource.md",
-            },
-          ],
-        },
-        {
-          text: "第三方资源站点链接",
-          items: [
-            {
-              text: "第三方资源站点链接",
-              link: "/third/index.md",
-            },
-          ],
-        },
-        {
-          text: "交流群",
-          items: [
-            {
-              text: "交流群",
-              link: "/CommunicationGroup/index.md",
-            },
-          ],
-        },
-      ],
-      "/utils": [
-        {
-          text: "总览",
-          items: [
-            {
-              text: "介绍",
-              link: "/overview/index.md",
-            },
-          ],
-        },
-        {
-          text: "学习",
-          collapsible: true,
-          collapsed: true,
-          items: learn(),
-        },
-        {
-          text: "娱乐",
-          collapsible: true,
-          collapsed: true,
-          items: amuse(),
-        },
-        {
-          text: "工具",
-          collapsible: true,
-          collapsed: true,
-          items: utils(),
-        },
-        {
-          text: "书源",
-          items: [
-            {
-              text: "书源",
-              link: "/book/booksource.md",
-            },
-          ],
-        },
-        {
-          text: "第三方资源站点链接",
-          items: [
-            {
-              text: "第三方资源站点链接",
-              link: "/third/index.md",
-            },
-          ],
-        },
-        {
-          text: "交流群",
-          items: [
-            {
-              text: "交流群",
-              link: "/CommunicationGroup/index.md",
-            },
-          ],
-        },
-      ],
-      "/book": [
-        {
-          text: "总览",
-          items: [
-            {
-              text: "介绍",
-              link: "/overview/index.md",
-            },
-          ],
-        },
-        {
-          text: "学习",
-          collapsible: true,
-          collapsed: true,
-          items: learn(),
-        },
-        {
-          text: "娱乐",
-          collapsible: true,
-          collapsed: true,
-          items: amuse(),
-        },
-        {
-          text: "工具",
-          collapsible: true,
-          collapsed: true,
-          items: utils(),
-        },
-        {
-          text: "书源",
-          items: [
-            {
-              text: "书源",
-              link: "/book/booksource.md",
-            },
-          ],
-        },
-        {
-          text: "第三方资源站点链接",
-          items: [
-            {
-              text: "第三方资源站点链接",
-              link: "/third/index.md",
-            },
-          ],
-        },
-        {
-          text: "交流群",
-          items: [
-            {
-              text: "交流群",
-              link: "/CommunicationGroup/index.md",
-            },
-          ],
-        },
-      ],
-      "/third": [
-        {
-          text: "总览",
-          items: [
-            {
-              text: "介绍",
-              link: "/overview/index.md",
-            },
-          ],
-        },
-        {
-          text: "学习",
-          collapsible: true,
-          collapsed: true,
-          items: learn(),
-        },
-        {
-          text: "娱乐",
-          collapsible: true,
-          collapsed: true,
-          items: amuse(),
-        },
-        {
-          text: "工具",
-          collapsible: true,
-          collapsed: true,
-          items: utils(),
-        },
-        {
-          text: "书源",
-          items: [
-            {
-              text: "书源",
-              link: "/book/booksource.md",
-            },
-          ],
-        },
-        {
-          text: "第三方资源站点链接",
-          items: [
-            {
-              text: "第三方资源站点链接",
-              link: "/third/index.md",
-            },
-          ],
-        },
-        {
-          text: "交流群",
-          items: [
-            {
-              text: "交流群",
-              link: "/CommunicationGroup/index.md",
-            },
-          ],
-        },
-      ],
+      "/overview/index.md": createPublicSiderNav(),
+      "/learn": createPublicSiderNav(),
+      "/amuse": createPublicSiderNav(),
+      "/utils": createPublicSiderNav(),
+      "/book": createPublicSiderNav(),
+      "/third": createPublicSiderNav(),
     },
     footer: {
       message: "资源来自网络搜索，侵权请联系删除",
@@ -381,6 +51,68 @@ export default defineConfig({
     },
   },
 });
+/**
+ * 创建侧边公共导航栏
+ * @returns
+ */
+function createPublicSiderNav() {
+  return [
+    {
+      text: "总览",
+      items: [
+        {
+          text: "介绍",
+          link: "/overview/index.md",
+        },
+      ],
+    },
+    {
+      text: "学习",
+      collapsible: true,
+      collapsed: true,
+      items: learn(),
+    },
+    {
+      text: "娱乐",
+      collapsible: true,
+      collapsed: true,
+      items: amuse(),
+    },
+    {
+      text: "工具",
+      collapsible: true,
+      collapsed: true,
+      items: utils(),
+    },
+    {
+      text: "书源",
+      items: [
+        {
+          text: "书源",
+          link: "/book/booksource.md",
+        },
+      ],
+    },
+    {
+      text: "第三方资源站点链接",
+      items: [
+        {
+          text: "第三方资源站点链接",
+          link: "/third/index.md",
+        },
+      ],
+    },
+    {
+      text: "交流群",
+      items: [
+        {
+          text: "交流群",
+          link: "/CommunicationGroup/index.md",
+        },
+      ],
+    },
+  ];
+}
 /**
  * 工具
  * @returns
@@ -398,6 +130,10 @@ function utils() {
     {
       text: "搜索引擎",
       link: "/utils/search.md",
+    },
+    {
+      text: "白嫖资源",
+      link: "/utils/piao.md",
     },
   ];
 }

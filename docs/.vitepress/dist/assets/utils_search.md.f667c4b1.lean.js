@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as r,a}from"./app.fc5d250c.js";const f=JSON.parse('{"title":"\u641C\u7D22\u5F15\u64CE","description":"","frontmatter":{},"headers":[],"relativePath":"utils/search.md"}'),o={name:"utils/search.md"},c=a("",9),s=[c];function n(p,l,_,h,i,d){return r(),t("div",null,s)}const b=e(o,[["render",n]]);export{f as __pageData,b as default};
