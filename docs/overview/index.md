@@ -10,8 +10,4 @@
 站内资源来源网络搜索，如有侵权，非常抱歉，请联系删除
 :::
 
-<!-- ::: warning 点个star吧
-如果觉得该站点还不错，请帮忙点个 star  👉 [⭐](https://gitee.com/lets-go-fishing/lsgfish-resource-sharing)
-::: -->
-
 ## [中国法律服务网](https://ai.12348.gov.cn/pc/)
