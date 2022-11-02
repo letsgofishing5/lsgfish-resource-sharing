@@ -12,6 +12,6 @@
     "pub": "yarn docs:build && git add -A && git commit -m 'update' && git push origin master"
   },
   "devDependencies": {
-    "vitepress": "^1.0.0-alpha.12"
+    "vitepress": "1.0.0-alpha.26"
   }
 }

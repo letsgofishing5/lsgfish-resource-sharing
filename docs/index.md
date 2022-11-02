@@ -9,7 +9,7 @@ hero:
     alt: 缺一个好看的log，求设计，求分享
   actions:
     - theme: brand
-      text: 立即查看 → 
+      text: 立即查看 →
       link: /overview/index
     - theme: alt
       text: View on Gitee
@@ -26,7 +26,7 @@ features:
     title: 娱乐
     details: 影视，旅游，美食等
   - icon: 🛠️
-    title:  工具
+    title: 工具
     details: 包含各类工具，可以是一个虚拟程序，也可以是一个现实工具
   - icon: 📒
     title: 第三方资源链接
