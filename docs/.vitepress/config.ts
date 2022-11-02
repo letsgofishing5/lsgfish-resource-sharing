@@ -424,6 +424,10 @@ function amuse() {
       link: "/amuse/leisure.md",
     },
     {
+      text: "游戏",
+      link: "/amuse/game.md",
+    },
+    {
       text: "扫一扫领取红包",
       link: "/amuse/redWrap.md",
     },
