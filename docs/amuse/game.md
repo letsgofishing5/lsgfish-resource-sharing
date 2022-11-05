@@ -7,4 +7,4 @@
 
 ## 编程游戏
 
-https://gov.server.ahjyjyzx.com/ssgovs
+[Codepip | Learn to code by playing games](https://codepip.com/)
