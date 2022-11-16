@@ -24,6 +24,10 @@
 - [CSS 炫酷效果代码 Copy](https://uiverse.io/)
 - [颜色选择器](https://color.hailpixel.com/)
 - [grid 布局设计与代码生成 Copy](https://cssgr.id/)
+- [CSS 渐变效果生成器](https://cssgradient.io/)
+- [波浪生成器](https://getwaves.io/)
+- [CSS技巧 (lhammer.cn)](https://lhammer.cn/You-need-to-know-css/#/)
+- [Pure CSS Loader - Optimized Spinners for Web · Loading.io](https://loading.io/css/)
 
 ## JavaScript
 
@@ -80,8 +84,6 @@
 [现代 OpenGL 介绍](https://duriansoftware.com/joe/An-intro-to-modern-OpenGL.-Table-of-Contents.html)
 
 [WebGL基础教程：第一部分 - 掘金 (juejin.cn)](https://juejin.cn/post/6844903760246882318)
-
-
 
 
 
