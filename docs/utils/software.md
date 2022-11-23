@@ -5,6 +5,10 @@
 点击右上角交流群加入群聊
 :::
 
+## 一站式视频剪辑平台
+
+[PickFrom - 一站式视频剪辑平台, 轻松玩转视频](https://zh.pickfrom.net/)
+
 ## 在线视频格式转换
 
 https://zh.geekersoft.com/free-video-converter-online.html
