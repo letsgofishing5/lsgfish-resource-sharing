@@ -183,6 +183,10 @@ function learn() {
       text: "医学",
       link: "/learn/medical/medical.md",
     },
+    {
+      text: "文学",
+      items: literature()
+    },
   ];
 }
 /**
@@ -210,6 +214,18 @@ function program() {
     {
       text: "github开源项目",
       link: "https://hellogithub.com/",
+    },
+  ];
+}
+/**
+ * 文学
+ * @returns
+ */
+function literature() {
+  return [
+    {
+      text: "写作",
+      link: "/learn/literature/writing.md",
     },
   ];
 }

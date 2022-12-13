@@ -20,11 +20,16 @@
 
 ### 在线文档
 
+- [Golang标准库中文文档](http://doc.golang.ltd/)
 - [地鼠文档](https://www.topgoer.cn/)
 - [李文周的博客](https://www.liwenzhou.com/posts/Go/golang-menu/)
+- [煎鱼 (eddycjy.com)](https://eddycjy.com/)
+- [🐶❤️🦀 | Go&Rust🦀 (mojotv.cn)](https://mojotv.cn/)
 
 ### 视频教程
 [Go语言急速入门](https://www.bilibili.com/video/BV1ZJ411W7jG?p=1&vd_source=4db4edf8e68a4ceac9f0a41212e6f026)
+
+稳扎稳打入门（推荐）：https://www.bilibili.com/video/BV1aa411g7vU
 
 
 

@@ -12,13 +12,13 @@
 - [Html5&CSS 笔记](https://learn.fuming.site/front-end/html5css3/)
 - [CSS 布局学习](https://zh.learnlayout.com/toc.html)
 
-### 在线实践
+### 在线练习实践
 
 - [CSS 选择器练习](https://flukeout.github.io/)
 - [flex 布局练习](http://flexboxfroggy.com/)
 - [grid布局练习](https://codepip.com/games/grid-garden/)
 
-### 代码片段生成工具
+### 代码片段copy
 
 - [盒子模型 UI 设计](https://neumorphism.io/#e0e0e0)
 - [CSS 炫酷效果代码 Copy](https://uiverse.io/)
@@ -27,7 +27,8 @@
 - [CSS 渐变效果生成器](https://cssgradient.io/)
 - [波浪生成器](https://getwaves.io/)
 - [CSS技巧 (lhammer.cn)](https://lhammer.cn/You-need-to-know-css/#/)
-- [Pure CSS Loader - Optimized Spinners for Web · Loading.io](https://loading.io/css/)
+- [CSS 加载效果](https://loading.io/css/)
+- [CSS Zen Garden: CSS设计之美](http://www.csszengarden.com/tr/zh-tw/214/)
 
 ## JavaScript
 
