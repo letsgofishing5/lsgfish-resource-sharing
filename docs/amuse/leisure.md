@@ -13,9 +13,7 @@
 
 [无版权背景音乐的网站-vlog小站 (vlogxz.com)](https://www.vlogxz.com/archives/2757)
 
-[心灵毒鸡汤 - 全网最经典的毒鸡汤语录收集 (nihaowua.com)](https://www.nihaowua.com/home.html)
-
-[你好污啊 - 撩汉/撩妹套路金句大全撩他/她更污更湿润 (nihaowua.com)](https://www.nihaowua.com/)
+[你好污啊 - 撩汉/撩妹套路金句大全 (nihaowua.com)](https://www.nihaowua.com/)
 
 [FakeUpdate.net - Windows Update Prank by fediaFedia](https://fakeupdate.net/)
 

@@ -1,0 +1,1 @@
+import{_ as e,c as r,o as a,a as t}from"./app.cc21f298.js";const m=JSON.parse('{"title":"\u4F11\u95F2","description":"","frontmatter":{},"headers":[],"relativePath":"amuse/leisure.md"}'),o={name:"amuse/leisure.md"},n=t("",9),s=[n];function p(c,i,_,h,l,d){return a(),r("div",null,s)}const w=e(o,[["render",p]]);export{m as __pageData,w as default};
