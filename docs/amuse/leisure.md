@@ -5,7 +5,7 @@
 点击右上角交流群加入群聊
 :::
 
-[知识指南](https://zh.wikihow.com/%E9%A6%96%E9%A1%B5)
+<!-- [知识指南](https://zh.wikihow.com/%E9%A6%96%E9%A1%B5) -->
 
 <!-- [物种 2000 中国节点 中国生物物种名录 (sp2000.org.cn)](http://www.sp2000.org.cn/)
 
