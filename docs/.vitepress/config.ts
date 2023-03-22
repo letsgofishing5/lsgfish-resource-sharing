@@ -1,6 +1,6 @@
 import { defineConfig } from "vitepress";
 export default defineConfig({
-  base: "/lsgfish/",
+  base: "/lsgfish-resource-sharing/",
   title: "资源收藏与分享",
   lang: "zh-CN",
   description: "收集学习，娱乐资源",
@@ -185,7 +185,7 @@ function learn() {
     },
     {
       text: "文学",
-      items: literature()
+      items: literature(),
     },
   ];
 }
