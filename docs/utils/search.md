@@ -5,7 +5,11 @@
 点击右上角交流群加入群聊
 :::
 
-[F 搜](https://fsoufsou.com/)
+[Phind: AI search engine](https://www.phind.com/)
+
+> 是一个AI搜索引擎，这个是继 F搜 之后，作者个人使用的搜索引擎，表示很好用呀
+
+[F 搜](https://fsoufsou.com/)：现在的F搜经常会出现用不了的情况
 
 > F Search | *F 搜*是一个搜索引擎，类似 Google、必应、百度一样的搜索引擎，提供了无广告、过滤内容农场的搜索结果，支持翻译、天气、IP 查询等功能。挺好用的。
 

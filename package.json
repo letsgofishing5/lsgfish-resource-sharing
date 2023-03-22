@@ -6,10 +6,10 @@
   "author": "Lsgofish <1113237401@qq.com>",
   "license": "MIT",
   "scripts": {
-    "docs:dev": "vitepress dev docs",
-    "docs:build": "vitepress build docs",
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
     "docs:serve": "vitepress serve docs",
-    "pub": "yarn docs:build && git add -A && git commit -m 'update' && git push origin master"
+    "pub": "yarn build && git add -A && git commit -m 'update' && git push origin master"
   },
   "devDependencies": {
     "vitepress": "1.0.0-alpha.26"
