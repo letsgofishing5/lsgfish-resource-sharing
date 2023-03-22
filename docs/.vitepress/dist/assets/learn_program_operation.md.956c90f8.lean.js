@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a,a as r}from"./app.3ad25772.js";const f=JSON.parse('{"title":"\u8FD0\u7EF4","description":"","frontmatter":{},"headers":[],"relativePath":"learn/program/operation.md"}'),o={name:"learn/program/operation.md"},n=r("",4),i=[n];function s(_,c,p,l,d,h){return a(),t("div",null,i)}const u=e(o,[["render",s]]);export{f as __pageData,u as default};

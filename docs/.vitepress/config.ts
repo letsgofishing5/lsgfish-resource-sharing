@@ -1,6 +1,6 @@
 import { defineConfig } from "vitepress";
 export default defineConfig({
-  base: "/lsgfish/",
+  base: "./",
   title: "资源收藏与分享",
   lang: "zh-CN",
   description: "收集学习，娱乐资源",
