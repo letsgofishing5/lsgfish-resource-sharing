@@ -1,1 +1,0 @@
-import{_ as e,c as r,o as t,a}from"./app.3ad25772.js";const m=JSON.parse('{"title":"\u4F11\u95F2","description":"","frontmatter":{},"headers":[],"relativePath":"amuse/leisure.md"}'),o={name:"amuse/leisure.md"},s=a("",8),n=[s];function c(p,_,i,l,h,d){return t(),r("div",null,n)}const w=e(o,[["render",c]]);export{m as __pageData,w as default};
