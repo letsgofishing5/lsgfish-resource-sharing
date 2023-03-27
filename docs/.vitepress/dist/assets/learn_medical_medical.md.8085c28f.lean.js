@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as t,a as r}from"./app.0f511c2e.js";const m=JSON.parse('{"title":"\u533B\u5B66","description":"","frontmatter":{},"headers":[],"relativePath":"learn/medical/medical.md"}'),s={name:"learn/medical/medical.md"},c=r("",4),o=[c];function n(_,d,i,l,p,f){return t(),a("div",null,o)}const E=e(s,[["render",n]]);export{m as __pageData,E as default};

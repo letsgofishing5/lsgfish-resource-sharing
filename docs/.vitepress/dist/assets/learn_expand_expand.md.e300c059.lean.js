@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,a as r}from"./app.0f511c2e.js";const m=JSON.parse('{"title":"\u6280\u80FD\u62D3\u5C55","description":"","frontmatter":{},"headers":[],"relativePath":"learn/expand/expand.md"}'),o={name:"learn/expand/expand.md"},n=r("",5),s=[n];function c(i,p,_,d,l,h){return a(),t("div",null,s)}const u=e(o,[["render",c]]);export{m as __pageData,u as default};

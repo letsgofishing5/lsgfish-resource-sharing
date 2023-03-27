@@ -204,6 +204,10 @@ function program() {
       link: "/learn/program/serve.md",
     },
     {
+      text: "扩展技能",
+      link: "/learn/expand/expand.md",
+    },
+    {
       text: "UI",
       link: "/learn/program/UI.md",
     },
