@@ -9,7 +9,13 @@
 
 ### 在线文档
 
-- [Html5&CSS 笔记](https://learn.fuming.site/front-end/html5css3/)
+- [铭哥前端教程](https://learn.fuming.site/)
+
+  ```
+  作者强力推荐，即可以当成学习文档，也可以当成笔记文档，内容精简高效，且用且珍惜
+  ```
+
+  
 - [CSS 布局学习](https://zh.learnlayout.com/toc.html)
 
 ### 在线练习实践

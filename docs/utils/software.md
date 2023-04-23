@@ -27,12 +27,22 @@
 
 <!-- http://laowangvpn.org/ -->
 
-完整信息：https://wwp.lanzoue.com/iJoAn0etvwsf
+<!-- 完整信息：https://wwp.lanzoue.com/iJoAn0etvwsf
 
 安卓版：https://wwp.lanzoue.com/iwcfg0etvm9g
 密码:7a3q
 
-windows 版：https://wwp.lanzoue.com/iYWsX0etviad
+windows 版：https://wwp.lanzoue.com/iYWsX0etviad -->
+
+[xrelay](https://xrelay.net/#/register?code=q8RiaKoF)
+
+```
+亲测好用，它可以免费试用一天。最主要的是它价格是比较便宜但是质量却不差，俗称性价比高
+```
+
+
+
+
 
 ## 小说阅读 app
 
@@ -87,12 +97,7 @@ windows 版：https://wwp.lanzoue.com/iYWsX0etviad
 
 #### [内网穿透](https://www.i996.me/)
 
-<!-- ## VPN
 
-给大家安利个神奇的软件，永久免费使用！
-速度超快，秒开油管、Ins，还能看奈飞、Hulu、HBO、动画疯、TVB、Apple TV...
-地区很丰富，香港、台湾、美国原生、日本原生全都有。
-立即使用老王vpn: http://mx6.ww.laowang123.cc:9998/invite?code=xsfqgor9  -->
 
 ## 破解工具
 
