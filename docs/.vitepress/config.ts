@@ -124,8 +124,8 @@ function utils() {
       link: "/utils/software.md",
     },
     {
-      text: "实体类",
-      link: "/utils/entity.md",
+      text: "AI工具",
+      link: "/utils/ai.md",
     },
     {
       text: "搜索引擎",
