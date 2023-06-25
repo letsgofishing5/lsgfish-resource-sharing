@@ -1,4 +1,4 @@
-# AI工具
+# AI 工具
 
 ::: tip 资源持续更新中...
 
@@ -8,6 +8,12 @@
 
 :::
 
-### chatGPT系列AI
+### chatGPT 系列 AI
 
-- 不需要翻墙，不需要海外手机号码，点击使用: https://chat.gamejx.cn/go/kl/655350
+- [BingAI - 聊天](https://bing.vcanbb.top/web/#/)：速度可能会有点慢哦，等等就好了
+
+- 不需要翻墙，不需要海外手机号码即可让你体验ChatGPT超强的智能聊天功能!所有聊天内容都加密处理，绝不泄露，放心使用哦: https://ai.chat86.co/go/kl/655350
+
+- AI 镜像站点汇总，如果上面的 AI 工具不能用了，失效了，到这里面去找能用的：https://gitee.com/click33/chatgpt---mirror-station-summary
+
+  

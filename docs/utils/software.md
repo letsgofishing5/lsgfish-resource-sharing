@@ -5,6 +5,37 @@
 点击右上角交流群加入群聊
 :::
 
+## 小说阅读 app
+
+#### 开源阅读
+
+[软件下载](https://kunfei.lanzoui.com/b0f810h4b)
+
+[站内跳转：书源](/book/booksource.md#源仓库)
+
+[开源阅读 3.0 论坛](https://www.5yd.cc/thread-38.htm)
+
+[github 开源地址](https://github.com/gedoor/legado)
+
+[gitee 开源地址](https://gitee.com/mirrors/Legado?_from=gitee_search#%E9%98%85%E8%AF%BB30)
+
+#### 搜书大师
+
+:::tip
+应用商店即可下载
+:::
+
+## 漫画阅读 app
+
+#### 爱看动漫
+
+下载：https://wwp.lanzoue.com/iyKgI0etvqta
+密码:6web
+
+#### clicli 动漫
+
+[下载](https://clicli.app/)
+
 ## 文件、视频处理
 
 各类文档视频处理（很有用且免费）：[aconvert.com](https://www.aconvert.com/)
@@ -44,37 +75,6 @@ windows 版：https://wwp.lanzoue.com/iYWsX0etviad -->
 
 
 
-## 小说阅读 app
-
-#### 开源阅读
-
-[软件下载](https://kunfei.lanzoui.com/b0f810h4b)
-
-[站内跳转：书源](/book/booksource.md#源仓库)
-
-[开源阅读 3.0 论坛](https://www.5yd.cc/thread-38.htm)
-
-[github 开源地址](https://github.com/gedoor/legado)
-
-[gitee 开源地址](https://gitee.com/mirrors/Legado?_from=gitee_search#%E9%98%85%E8%AF%BB30)
-
-#### 搜书大师
-
-:::tip
-应用商店即可下载
-:::
-
-## 漫画阅读 app
-
-#### 爱看动漫
-
-下载：https://wwp.lanzoue.com/iyKgI0etvqta
-密码:6web
-
-#### clicli 动漫
-
-[下载](https://clicli.app/)
-
 ## 工具箱
 
 #### [uTools - 你的生产力工具集 (u-tools.cn)](https://open.u-tools.cn/199327.html)
@@ -96,8 +96,6 @@ windows 版：https://wwp.lanzoue.com/iYWsX0etviad -->
 ## 内网穿透
 
 #### [内网穿透](https://www.i996.me/)
-
-
 
 ## 破解工具
 

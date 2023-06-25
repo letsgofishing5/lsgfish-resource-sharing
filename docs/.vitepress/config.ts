@@ -156,15 +156,7 @@ function amuse() {
       link: "/amuse/image.md",
     },
     {
-      text: "休闲",
-      link: "/amuse/leisure.md",
-    },
-    {
-      text: "游戏",
-      link: "/amuse/game.md",
-    },
-    {
-      text: "扫一扫领取红包",
+      text: "支付宝扫一扫领取红包",
       link: "/amuse/redWrap.md",
     },
   ];
@@ -204,16 +196,12 @@ function program() {
       link: "/learn/program/serve.md",
     },
     {
-      text: "扩展技能",
-      link: "/learn/expand/expand.md",
-    },
-    {
       text: "UI",
       link: "/learn/program/UI.md",
     },
     {
-      text: "运维",
-      link: "/learn/program/operation.md",
+      text: "技能扩展",
+      link: "/learn/expand/expand.md",
     },
     {
       text: "github开源项目",
