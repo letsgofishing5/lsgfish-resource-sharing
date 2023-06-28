@@ -11,10 +11,8 @@
 [小苹果影视大全](https://wwry.lanzoum.com/b03q4rkub):密码:bgp2
 
 ```
-这个软件是经过同事使用认证的，一致认定好用，然后我就把资源要了过来啦
-可以安装在 win 11 系统电脑上，也可以装在电视机上，手机上。
-完全免费观看影视剧
+小苹果现在好像要收费了，
 ```
 
-
+[TVBox＆影视 (lanzoub.com)](https://qiqi2020.lanzoub.com/b09svqv1c)
 
