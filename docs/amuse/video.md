@@ -4,15 +4,15 @@
 点击右上角交流群加入群聊
 :::
 
-[茶杯狐](https://cupfox.app/?iui.su)
+## 网页版
+
+[电影狗](https://www.dianyinggou.com/)
 
 [樱花动漫](http://yhdm83.com/)
 
-[小苹果影视大全](https://wwry.lanzoum.com/b03q4rkub):密码:bgp2
+[茶杯狐](https://cupfox.app/?iui.su)
 
-```
-小苹果现在好像要收费了，
-```
+## App
 
 [TVBox＆影视 (lanzoub.com)](https://qiqi2020.lanzoub.com/b09svqv1c)
 

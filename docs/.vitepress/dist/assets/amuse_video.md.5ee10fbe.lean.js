@@ -1,1 +1,0 @@
-import{_ as e,c as a,o as t,a as s}from"./app.68b10779.js";const m=JSON.parse('{"title":"\u89C6\u9891","description":"","frontmatter":{},"headers":[],"relativePath":"amuse/video.md"}'),r={name:"amuse/video.md"},o=s("",7),n=[o];function p(c,l,i,_,d,h){return t(),a("div",null,n)}const f=e(r,[["render",p]]);export{m as __pageData,f as default};
