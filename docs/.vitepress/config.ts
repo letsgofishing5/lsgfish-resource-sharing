@@ -103,6 +103,15 @@ function createPublicSiderNav() {
       ],
     },
     {
+      text: "群友分享",
+      items: [
+        {
+          text: "群友分享",
+          link: "/public/01.html",
+        },
+      ],
+    },
+    {
       text: "交流群",
       items: [
         {
