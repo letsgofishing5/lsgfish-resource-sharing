@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,a as r}from"./app.4bdac652.js";const f=JSON.parse('{"title":"\u7FA4\u53CB\u5206\u4EAB","description":"","frontmatter":{},"headers":[],"relativePath":"third/share.md"}'),s={name:"third/share.md"},o=r("",3),c=[o];function _(i,h,n,d,p,l){return a(),t("div",null,c)}const u=e(s,[["render",_]]);export{f as __pageData,u as default};

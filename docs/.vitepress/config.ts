@@ -107,7 +107,7 @@ function createPublicSiderNav() {
       items: [
         {
           text: "群友分享",
-          link: "/public/01.html",
+          link: "/third/share.md",
         },
       ],
     },
