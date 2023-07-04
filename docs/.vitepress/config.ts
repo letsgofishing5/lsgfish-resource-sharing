@@ -102,15 +102,15 @@ function createPublicSiderNav() {
         },
       ],
     },
-    {
-      text: "群友分享",
-      items: [
-        {
-          text: "群友分享",
-          link: "/third/share.md",
-        },
-      ],
-    },
+    // {
+    //   text: "群友分享",
+    //   items: [
+    //     {
+    //       text: "群友分享",
+    //       link: "/third/share.md",
+    //     },
+    //   ],
+    // },
     {
       text: "交流群",
       items: [
