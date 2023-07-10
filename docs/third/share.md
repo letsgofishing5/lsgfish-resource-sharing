@@ -4,4 +4,4 @@
 点击右上角交流群加入群聊
 :::
 
-[群友默默的分享资源集合](http://122.112.147.167:61999/resources/momo.html)
+[群友默默的分享资源集合](https://static-mp-00526be3-cd12-41bd-84f7-bfbce63bb7d0.next.bspapp.com/MyProject/momo.html)
