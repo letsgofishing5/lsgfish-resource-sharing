@@ -29,6 +29,10 @@ export default defineConfig({
         link: "/book/booksource.md",
       },
       {
+        text: "群友分享",
+        link: "/third/share.md",
+      },
+      {
         text: "第三方资源站点链接",
         link: "/third/index.md",
       },
@@ -102,15 +106,15 @@ function createPublicSiderNav() {
         },
       ],
     },
-    // {
-    //   text: "群友分享",
-    //   items: [
-    //     {
-    //       text: "群友分享",
-    //       link: "/third/share.md",
-    //     },
-    //   ],
-    // },
+    {
+      text: "群友分享",
+      items: [
+        {
+          text: "群友分享",
+          link: "/third/share.md",
+        },
+      ],
+    },
     {
       text: "交流群",
       items: [
