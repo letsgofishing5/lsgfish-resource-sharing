@@ -36,6 +36,16 @@
 
 [下载](https://clicli.app/)
 
+## 在线极简简历
+
+[极简简历](https://www.polebrief.com/index)
+
+```
+可以导出PDF，也可以在线保存，免费制作简历很nice
+```
+
+
+
 ## 文件、视频处理
 
 各类文档视频处理（很有用且免费）：[aconvert.com](https://www.aconvert.com/)
