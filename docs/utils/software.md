@@ -48,6 +48,8 @@
 
 ## 文件、视频处理
 
+图片压缩（非常好用）：[Squoosh](https://squoosh.app/)
+
 各类文档视频处理（很有用且免费）：[aconvert.com](https://www.aconvert.com/)
 
 在线视频格式转换：https://zh.geekersoft.com/free-video-converter-online.html
@@ -56,7 +58,7 @@
 
 在线抠图：[在线抠图软件\_图片去除背景 ](https://www.remove.bg/zh)
 
-图片压缩（非常好用）：[Squoosh](https://squoosh.app/)
+
 
 ## 视频剪辑
 

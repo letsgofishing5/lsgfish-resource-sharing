@@ -233,8 +233,12 @@ function program() {
 function literature() {
   return [
     {
-      text: "写作",
-      link: "/learn/literature/writing.md",
+      text: "全历史",
+      link: "https://www.allhistory.com/",
+    },
+    {
+      text: "微软爱写作",
+      link: "http://aimwriting.mtutor.engkoo.com/",
     },
   ];
 }

@@ -1,1 +1,0 @@
-import{_ as e,c as r,o as a,a as t}from"./app.a5199840.js";const u=JSON.parse('{"title":"UI","description":"","frontmatter":{},"headers":[],"relativePath":"learn/program/UI.md"}'),o={name:"learn/program/UI.md"},p=t("",6),s=[p];function c(n,l,_,i,h,d){return a(),r("div",null,s)}const m=e(o,[["render",c]]);export{u as __pageData,m as default};
