@@ -133,8 +133,20 @@ function createPublicSiderNav() {
 function utils() {
   return [
     {
-      text: "软件类",
-      link: "/utils/software.md",
+      text: "阅读",
+      link: "/utils/read.md",
+    },
+    {
+      text: "文件处理",
+      link: "/utils/office_work.md",
+    },
+    {
+      text: "通用的客户端工具",
+      link: "/utils/PC_utils.md",
+    },
+    {
+      text: "编程类客户端工具",
+      link: "/utils/programming_utils.md",
     },
     {
       text: "AI工具",
@@ -147,6 +159,14 @@ function utils() {
     {
       text: "白嫖资源",
       link: "/utils/piao.md",
+    },
+    {
+      text: "在线文件共享",
+      link: "https://www.wenshushu.cn/",
+    },
+    {
+      text: "V-P-N",
+      link: "https://xrelay.net/#/register?code=q8RiaKoF",
     },
   ];
 }
