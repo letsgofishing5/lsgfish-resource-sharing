@@ -214,7 +214,11 @@ function program() {
     },
     {
       text: "技能扩展",
-      link: "/learn/expand/expand.md",
+      link: "/learn/program/expand.md",
+    },
+    {
+      text: "书栈网 开源编程书籍",
+      link: "https://www.bookstack.cn/",
     },
     {
       text: "github开源项目",

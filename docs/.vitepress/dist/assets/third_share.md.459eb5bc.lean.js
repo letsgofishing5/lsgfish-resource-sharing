@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a,a as r}from"./app.f4420fcc.js";const b=JSON.parse('{"title":"\u7FA4\u53CB\u5206\u4EAB","description":"","frontmatter":{},"headers":[],"relativePath":"third/share.md"}'),s={name:"third/share.md"},c=r("",3),o=[c];function _(d,n,i,p,h,l){return a(),t("div",null,o)}const f=e(s,[["render",_]]);export{b as __pageData,f as default};
