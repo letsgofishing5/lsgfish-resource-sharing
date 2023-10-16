@@ -242,6 +242,10 @@ function program() {
       link: "https://www.bookstack.cn/",
     },
     {
+      text: "搬书匠 开源编程书籍",
+      link: "http://www.banshujiang.cn/",
+    },
+    {
       text: "github开源项目",
       link: "https://hellogithub.com/",
     },
