@@ -4,6 +4,7 @@ export default defineConfig({
   title: "资源收藏与分享",
   lang: "zh-CN",
   description: "收集学习，娱乐资源",
+  head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
   themeConfig: {
     editLink: {
       pattern:
