@@ -9,11 +9,13 @@
 
 ## 在线极简简历
 
+[Boss直聘简历编辑](https://cv.zhipin.com/resume/html/my-resumes)
+
+- boss直聘的简历编辑很好用，可以免费导出来，然后呢，在app端还可以有简历优化分析，让你的简历更出众
+
 [极简简历](https://www.polebrief.com/index)
 
-```
-可以导出PDF，也可以在线保存，免费制作简历很nice
-```
+- 可以导出PDF，也可以在线保存，免费制作简历很nice
 
 
 

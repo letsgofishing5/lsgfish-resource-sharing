@@ -7,10 +7,16 @@
 
 ## 终端工具
 
-#### shell 工具：[MobaXterm](https://mobaxterm.mobatek.net/)
+#### shell 工具
+
+[MobaXterm](https://mobaxterm.mobatek.net/)
 
 - MobaXterm 是您**用于远程计算的终极工具箱**。
 - 集**shell 操作**与**文件拖拽**一体的**免费终端工具**。**直观的用户界面**，以便您通过不同的网络或系统**有效地访问远程服务器**
+
+[FinalShell](https://www.hostbuf.com/t/988.html)
+
+- SSH工具,服务器管理,远程桌面加速软件,支持Windows,macOS,Linux,
 
 ## 内网穿透
 

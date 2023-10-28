@@ -13,6 +13,7 @@ export default defineConfig({
     },
     nav: [
       { text: "总览", link: "/overview/index.md" },
+      { text: "我的博客", link: "https://www.cnblogs.com/letgofishing/" },
       {
         text: "学习",
         items: learn(),
