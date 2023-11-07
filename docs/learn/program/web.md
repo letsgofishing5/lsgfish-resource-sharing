@@ -93,7 +93,7 @@
 
 [three.js 中文教程](https://www.three3d.cn/docs/index.html)
 
-[Cesiumjs 快速上手视频文档](/learn/cesiumjs/index.md)
+
 
 ## 编程游戏
 
