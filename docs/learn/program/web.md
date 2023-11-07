@@ -21,9 +21,9 @@
 
 - [CSS 选择器练习](https://flukeout.github.io/)
 - [flex 布局练习](http://flexboxfroggy.com/)
-- [grid布局练习](https://codepip.com/games/grid-garden/)
+- [grid 布局练习](https://codepip.com/games/grid-garden/)
 
-### 代码片段copy
+### 代码片段 copy
 
 - [盒子模型 UI 设计](https://neumorphism.io/#e0e0e0)
 - [CSS 炫酷效果代码 Copy](https://uiverse.io/)
@@ -31,9 +31,9 @@
 - [grid 布局设计与代码生成 Copy](https://cssgr.id/)
 - [CSS 渐变效果生成器](https://cssgradient.io/)
 - [波浪生成器](https://getwaves.io/)
-- [CSS技巧 (lhammer.cn)](https://lhammer.cn/You-need-to-know-css/#/)
+- [CSS 技巧 (lhammer.cn)](https://lhammer.cn/You-need-to-know-css/#/)
 - [CSS 加载效果](https://loading.io/css/)
-- [CSS Zen Garden: CSS设计之美](http://www.csszengarden.com/tr/zh-tw/214/)
+- [CSS Zen Garden: CSS 设计之美](http://www.csszengarden.com/tr/zh-tw/214/)
 
 ## JavaScript
 
@@ -89,13 +89,11 @@
 
 [现代 OpenGL 介绍](https://duriansoftware.com/joe/An-intro-to-modern-OpenGL.-Table-of-Contents.html)
 
-[WebGL基础教程：第一部分 - 掘金 (juejin.cn)](https://juejin.cn/post/6844903760246882318)
-
-
+[WebGL 基础教程：第一部分 - 掘金 (juejin.cn)](https://juejin.cn/post/6844903760246882318)
 
 [three.js 中文教程](https://www.three3d.cn/docs/index.html)
 
-
+[Cesiumjs 快速上手视频文档](/learn/cesiumjs/index.md)
 
 ## 编程游戏
 
@@ -103,11 +101,9 @@
 
 ## 前端框架
 
-**H5框架：**[Quark Design - 一套企业级跨框架 UI 设计语言 (hellobike.com)](https://quark-design.hellobike.com/#/)
+**H5 框架：**[Quark Design - 一套企业级跨框架 UI 设计语言 (hellobike.com)](https://quark-design.hellobike.com/#/)
 
 <!-- **微前端框架：**[零界-index (lingjie-js.github.io)](https://lingjie-js.github.io/lingjie/dist/page/docs/index.html) -->
-
-
 
 ## 低代码引擎
 
