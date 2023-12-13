@@ -6,6 +6,7 @@
 
 ## 网页版
 
+- [不太灵](https://git.piesat.cn/HeFeiRDC/Projects/GeoEdu.git)
 - [电影狗](https://www.dianyinggou.com/)
 - [樱花动漫](http://yhdm83.com/)
 - [茶杯狐](https://cupfox.app/?iui.su)
