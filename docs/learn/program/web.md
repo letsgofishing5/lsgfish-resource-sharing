@@ -35,6 +35,10 @@
 - [CSS 加载效果](https://loading.io/css/)
 - [CSS Zen Garden: CSS 设计之美](http://www.csszengarden.com/tr/zh-tw/214/)
 
+## 语义化标签
+
+[HTML5 元素标签含义大全(元素周期表)Hulkye](https://hulkye.github.io/html5tags/)
+
 ## JavaScript
 
 ### 在线文档
@@ -97,11 +101,13 @@
 
 ## Cesium
 
-[GIS英汉词典](http://zhihu.geoscene.cn/article/3633)
+[GIS 英汉词典](http://zhihu.geoscene.cn/article/3633)
 
-[Cesium官方API文档](https://cesium.com/learn/cesiumjs/ref-doc/index.html)
+[Cesium 官方 API 文档](https://cesium.com/learn/cesiumjs/ref-doc/index.html)
 
-[Cesium入门教程文档](http://syzdev.cn/cesium-docs/)
+[Cesium 入门教程文档](http://syzdev.cn/cesium-docs/)
+
+<!-- [Cesium入门教程文档 本地化](http://syzdev.cn/cesium-docs/) -->
 
 [哔哩哔哩视频入门](https://space.bilibili.com/597185371/channel/series)
 
