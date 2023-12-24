@@ -5,6 +5,8 @@
 点击右上角交流群加入群聊
 :::
 
+[最懂程序员的新一代 AI 搜索引擎](https://devv.ai/zh)
+
 [Phind: AI search engine](https://www.phind.com/)
 
 > 是一个AI搜索引擎，这个是继 F搜 之后，作者个人使用的搜索引擎，表示很好用呀
