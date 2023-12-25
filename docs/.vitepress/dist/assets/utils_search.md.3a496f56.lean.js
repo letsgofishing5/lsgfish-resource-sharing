@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r,a as o}from"./app.3eadd27d.js";const d=JSON.parse('{"title":"\u641C\u7D22\u5F15\u64CE","description":"","frontmatter":{},"headers":[],"relativePath":"utils/search.md"}'),a={name:"utils/search.md"},c=o("",12),s=[c];function p(l,n,_,i,h,u){return r(),t("div",null,s)}const f=e(a,[["render",p]]);export{d as __pageData,f as default};
