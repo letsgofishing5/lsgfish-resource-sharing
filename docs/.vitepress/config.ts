@@ -135,16 +135,20 @@ function createPublicSiderNav() {
 function utils() {
   return [
     {
-      text: "阅读",
-      link: "/utils/read.md",
+      text: "图片与视频处理",
+      link: "/utils/picture.md",
     },
     {
-      text: "文件处理",
-      link: "/utils/office_work.md",
+      text: "简历编辑",
+      link: "/utils/resume.md",
     },
     {
-      text: "通用的客户端工具",
-      link: "/utils/PC_utils.md",
+      text: "Typora笔记工具",
+      link: "https://typoraio.cn/releases/all",
+    },
+    {
+      text: "snipaste截图工具",
+      link: "https://www.snipaste.com/",
     },
     {
       text: "编程类客户端工具",
@@ -178,6 +182,10 @@ function utils() {
  */
 function amuse() {
   return [
+    {
+      text: "阅读",
+      link: "/amuse/read.md",
+    },
     {
       text: "视频",
       link: "/amuse/video.md",

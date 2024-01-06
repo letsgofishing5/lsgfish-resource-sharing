@@ -1,35 +1,18 @@
-# 文件处理
+# 简历在线编辑
 
 ::: tip 资源持续更新中...
 如果你有什么好的资源，可以在群里分享，后续被选中后会被录入 <br>
 点击右上角交流群加入群聊
 :::
 
-
-
 ## 在线极简简历
 
 [Boss直聘简历编辑](https://cv.zhipin.com/resume/html/my-resumes)
 
 - boss直聘的简历编辑很好用，可以免费导出来，然后呢，在app端还可以有简历优化分析，让你的简历更出众
+- [<img src="resume/image-20240106140505716.png" alt="image-20240106140505716" style="zoom:33%;" />](https://cv.zhipin.com/resume/html/my-resumes)
 
 [极简简历](https://www.polebrief.com/index)
 
 - 可以导出PDF，也可以在线保存，免费制作简历很nice
-
-
-
-## 图片压缩
-
-图片压缩（非常好用）：[Squoosh](https://squoosh.app/)
-
-## 视频格式转换
-
-在线视频格式转换：https://zh.geekersoft.com/free-video-converter-online.html
-
-## 抠图
-
-在线抠图：[在线抠图软件\_图片去除背景 ](https://www.remove.bg/zh)
-
-
-
+- [<img src="resume/image-20240106140543385.png" alt="image-20240106140543385" style="zoom:33%;" />](https://www.polebrief.com/index)

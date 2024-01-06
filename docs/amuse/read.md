@@ -5,15 +5,15 @@
 点击右上角交流群加入群聊
 :::
 
-## 小说阅读 app
+## 小说阅读app
 
 #### 开源阅读
 
-[软件下载](https://kunfei.lanzoui.com/b0f810h4b)
+[软件下载](https://www.yuque.com/legado/wiki/xz)
 
 [站内跳转：书源](/book/booksource.md#源仓库)
 
-[开源阅读 3.0 论坛](https://www.5yd.cc/thread-38.htm)
+[开源阅读 3.0 论坛](https://legado.cn/)
 
 [github 开源地址](https://github.com/gedoor/legado)
 
@@ -31,4 +31,3 @@
 
 下载：https://wwp.lanzoue.com/iyKgI0etvqta
 密码:6web
-

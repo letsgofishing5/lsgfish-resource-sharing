@@ -7,7 +7,18 @@
 
 ## 终端工具
 
-#### shell 工具
+#### [uTools - 你的生产力工具集 (u-tools.cn)](https://open.u-tools.cn/199327.html)
+
+- uTools 是一个极简、插件化的现代桌面软件，通过自由选配丰富的插件，打造得心应手的工具集合
+- 简单介绍其功能点：本地文件搜索，应用快速启动，[使用指南](https://u.tools/docs/guide/about-uTools.html#utools-%E6%98%AF%E4%BB%80%E4%B9%88)
+
+## He3
+
+[He3-开发者必备的万能工具箱](https://he3.app/zh/)
+
+[<img src="programming_utils/image-20240106142644201.png" alt="image-20240106142644201" style="zoom:33%;" />](https://he3.app/zh/)
+
+## shell 工具
 
 [MobaXterm](https://mobaxterm.mobatek.net/)
 
