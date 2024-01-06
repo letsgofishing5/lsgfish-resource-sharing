@@ -26,6 +26,8 @@
 ### 代码片段 copy
 
 - [盒子模型 UI 设计](https://neumorphism.io/#e0e0e0)
+
+  ![image-20240106120247851](web/image-20240106120247851.png)
 - [CSS 炫酷效果代码 Copy](https://uiverse.io/)
 - [颜色选择器](https://color.hailpixel.com/)
 - [grid 布局设计与代码生成 Copy](https://cssgr.id/)
