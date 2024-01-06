@@ -6,10 +6,19 @@
 
 ## 网页版
 
-- [不太灵](https://git.piesat.cn/HeFeiRDC/Projects/GeoEdu.git)
-- [电影狗](https://www.dianyinggou.com/)
 - [樱花动漫](http://yhdm83.com/)
+
+  [<img src="video/image-20240106143201891.png" alt="image-20240106143201891" style="zoom:33%;" />](http://yhdm83.com/)
+
+- [电影狗](https://www.dianyinggou.com/)
+
+  [<img src="video/image-20240106143110269.png" alt="image-20240106143110269" style="zoom:33%;" />](https://www.dianyinggou.com/)
+
 - [茶杯狐](https://cupfox.app/?iui.su)
+
+  [<img src="video/image-20240106143300354.png" alt="image-20240106143300354" style="zoom:33%;" />](https://cupfox.app/?iui.su)
+
+- [不太灵](https://git.piesat.cn/HeFeiRDC/Projects/GeoEdu.git)
 
 ## App
 
