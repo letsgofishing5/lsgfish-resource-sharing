@@ -31,7 +31,7 @@
 
   [<img src="web/image-20240106122744408.png" alt="image-20240106122744408" style="zoom:33%;" />](https://developer.mozilla.org/zh-CN/)
 
-## 在线练习实践
+## CSS在线练习
 
 - [CSS 选择器练习](https://flukeout.github.io/)
 
@@ -42,6 +42,12 @@
 - [grid 布局练习](https://codepip.com/games/grid-garden/)
 
   [<img src="web/image-20240106120923478.png" alt="image-20240106120923478" style="zoom: 33%;" />](https://codepip.com/games/grid-garden/)
+
+##  Vue.js 在线挑战平台
+
+[Vue.js 挑战 | 一个 Vue.js 在线挑战平台](https://cn-vuejs-challenges.netlify.app/)
+
+[<img src="web/image-20240106135543799.png" alt="image-20240106135543799" style="zoom:33%;" />](https://cn-vuejs-challenges.netlify.app/)
 
 ## CSS Loader
 

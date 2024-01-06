@@ -9,7 +9,9 @@
 
 [代码随想录 ](https://www.programmercarl.com/)
 
+[LintCode 炼码 - ChatGPT！更高效的学习体验！](https://www.lintcode.com/chat-gpt?utm_source=tf-github-xhGPT)
 
+[<img src="expand/image-20240106135346322.png" alt="image-20240106135346322" style="zoom:33%;" />](https://www.lintcode.com/chat-gpt?utm_source=tf-github-xhGPT)
 
 ## 理财 基金入门了解
 
@@ -50,3 +52,9 @@
 ### 在线课程
 
 [Javascript设计模式](https://www.bilibili.com/video/BV1MP4y127kd/?spm_id_from=333.337.search-card.all.click&vd_source=4db4edf8e68a4ceac9f0a41212e6f026)
+
+### 在线设计模式练习
+
+[卡码网KamaCoder](https://kamacoder.com/)
+
+[<img src="expand/image-20240106135736220.png" alt="image-20240106135736220" style="zoom:33%;" />](https://kamacoder.com/)
