@@ -32,7 +32,7 @@
 
 [wallhere](https://wallhere.com)：国外知名的壁纸网站，图片大多来源用户上传，质量高。拥有海量桌面、手机壁纸。
 
-[<img src="/image/image-20240106144123812.png" alt="image-20240106144123812" style="zoom:33%;" />](https://wallhere.com)
+[<img src="/image/image-20240106154820984.png" alt="image-20240106144123812" style="zoom:33%;" />](https://wallhere.com)
 
 [Wallpaper abyss](https://wall.alphacoders.com)：Wallpaperabyss 是国外知名的壁纸下载网站，分享的壁纸数量很多。
 
@@ -61,6 +61,8 @@
 [bing 每日壁纸](http://bimg.top)、[bing 每日壁纸 2](https://www.bingimg.cn/list1)、[bing 每日壁纸 3](https://peapix.com/bing/cn/2022)
 
 [<img src="/image/image-20240106144350919.png" alt="image-20240106144350919" style="zoom:33%;" />](http://bimg.top)
+
+
 
 <!-- ## 妹子图
 [花瓣美女](https://huaban.com/favorite/beauty)：花瓣网美女标签下的采集
