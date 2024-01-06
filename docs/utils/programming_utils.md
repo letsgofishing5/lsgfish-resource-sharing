@@ -16,7 +16,7 @@
 
 [He3-开发者必备的万能工具箱](https://he3.app/zh/)
 
-[<img src="programming_utils/image-20240106142644201.png" alt="image-20240106142644201" style="zoom:33%;" />](https://he3.app/zh/)
+[<img src="/programming_utils/image-20240106142644201.png" alt="image-20240106142644201" style="zoom:33%;" />](https://he3.app/zh/)
 
 ## shell 工具
 
@@ -27,7 +27,7 @@
 
 [FinalShell](https://www.hostbuf.com/t/988.html)
 
-- SSH工具,服务器管理,远程桌面加速软件,支持Windows,macOS,Linux,
+- SSH 工具,服务器管理,远程桌面加速软件,支持 Windows,macOS,Linux,
 
 ## 内网穿透
 

@@ -7,12 +7,12 @@
 
 ## 在线极简简历
 
-[Boss直聘简历编辑](https://cv.zhipin.com/resume/html/my-resumes)
+[Boss 直聘简历编辑](https://cv.zhipin.com/resume/html/my-resumes)
 
-- boss直聘的简历编辑很好用，可以免费导出来，然后呢，在app端还可以有简历优化分析，让你的简历更出众
-- [<img src="resume/image-20240106140505716.png" alt="image-20240106140505716" style="zoom:33%;" />](https://cv.zhipin.com/resume/html/my-resumes)
+- boss 直聘的简历编辑很好用，可以免费导出来，然后呢，在 app 端还可以有简历优化分析，让你的简历更出众
+- [<img src="/resume/image-20240106140505716.png" alt="image-20240106140505716" style="zoom:33%;" />](https://cv.zhipin.com/resume/html/my-resumes)
 
 [极简简历](https://www.polebrief.com/index)
 
-- 可以导出PDF，也可以在线保存，免费制作简历很nice
-- [<img src="resume/image-20240106140543385.png" alt="image-20240106140543385" style="zoom:33%;" />](https://www.polebrief.com/index)
+- 可以导出 PDF，也可以在线保存，免费制作简历很 nice
+- [<img src="/resume/image-20240106140543385.png" alt="image-20240106140543385" style="zoom:33%;" />](https://www.polebrief.com/index)

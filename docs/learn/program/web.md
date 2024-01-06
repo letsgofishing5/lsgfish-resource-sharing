@@ -9,109 +9,111 @@
 
 [铭哥前端教程](https://learn.fuming.site/)
 
-[<img src="web/image-20240106120557136.png" alt="image-20240106120557136" style="zoom: 33%;" />](https://learn.fuming.site/)
+[<img src="/web/image-20240106120557136.png" alt="image-20240106120557136" style="zoom: 33%;" />](https://learn.fuming.site/)
 
-## CSS在线文档
+## CSS 在线文档
 
-- [最常用CSS 布局学习](https://zh.learnlayout.com/toc.html)
+- [最常用 CSS 布局学习](https://zh.learnlayout.com/toc.html)
 
-  [<img src="web/image-20240106120614757.png" alt="image-20240106120614757" style="zoom: 33%;" />](https://zh.learnlayout.com/toc.html)
+  [<img src="/web/image-20240106120614757.png" alt="image-20240106120614757" style="zoom: 33%;" />](https://zh.learnlayout.com/toc.html)
 
-## JavaScript在线文档
+## JavaScript 在线文档
 
 - [现代 Javascript 教程](https://zh.javascript.info/)
 
-  [<img src="web/image-20240106121739136.png" alt="image-20240106121739136" style="zoom: 33%;" />](https://zh.javascript.info/)
+  [<img src="/web/image-20240106121739136.png" alt="image-20240106121739136" style="zoom: 33%;" />](https://zh.javascript.info/)
 
 - [ECMAScript6 入门](https://es6.ruanyifeng.com/#docs/destructuring)
 
-  [<img src="web/image-20240106122648675.png" alt="image-20240106122648675" style="zoom:33%;" />](https://es6.ruanyifeng.com/#docs/destructuring)
+  [<img src="/web/image-20240106122648675.png" alt="image-20240106122648675" style="zoom:33%;" />](https://es6.ruanyifeng.com/#docs/destructuring)
 
 - [MDN-前端 API 大全查询](https://developer.mozilla.org/zh-CN/)
 
-  [<img src="web/image-20240106122744408.png" alt="image-20240106122744408" style="zoom:33%;" />](https://developer.mozilla.org/zh-CN/)
+  [<img src="/web/image-20240106122744408.png" alt="image-20240106122744408" style="zoom:33%;" />](https://developer.mozilla.org/zh-CN/)
 
-## CSS在线练习
+## CSS 在线练习
 
 - [CSS 选择器练习](https://flukeout.github.io/)
 
-  [<img src="web/image-20240106120648888.png" alt="image-20240106120648888" style="zoom: 33%;" />](https://flukeout.github.io/)
+  [<img src="/web/image-20240106120648888.png" alt="image-20240106120648888" style="zoom: 33%;" />](https://flukeout.github.io/)
+
 - [flex 布局练习](http://flexboxfroggy.com/)
 
-  [<img src="web/image-20240106120817155.png" alt="image-20240106120817155" style="zoom: 33%;" />](http://flexboxfroggy.com/)
+  [<img src="/web/image-20240106120817155.png" alt="image-20240106120817155" style="zoom: 33%;" />](http://flexboxfroggy.com/)
+
 - [grid 布局练习](https://codepip.com/games/grid-garden/)
 
-  [<img src="web/image-20240106120923478.png" alt="image-20240106120923478" style="zoom: 33%;" />](https://codepip.com/games/grid-garden/)
+  [<img src="/web/image-20240106120923478.png" alt="image-20240106120923478" style="zoom: 33%;" />](https://codepip.com/games/grid-garden/)
 
-##  Vue.js 在线挑战平台
+## Vue.js 在线挑战平台
 
 [Vue.js 挑战 | 一个 Vue.js 在线挑战平台](https://cn-vuejs-challenges.netlify.app/)
 
-[<img src="web/image-20240106135543799.png" alt="image-20240106135543799" style="zoom:33%;" />](https://cn-vuejs-challenges.netlify.app/)
+[<img src="/web/image-20240106135543799.png" alt="image-20240106135543799" style="zoom:33%;" />](https://cn-vuejs-challenges.netlify.app/)
 
 ## CSS Loader
 
 [css-loaders](https://css-loaders.com/classic/)
 
-[<img src="web/image-20240106132811755.png" alt="image-20240106132811755" style="zoom:33%;" />](https://css-loaders.com/classic/)
+[<img src="/web/image-20240106132811755.png" alt="image-20240106132811755" style="zoom:33%;" />](https://css-loaders.com/classic/)
 
 [CSS 加载效果](https://loading.io/css/)
 
-[<img src="web/image-20240106121228423.png" alt="image-20240106121228423" style="zoom: 33%;" />](https://loading.io/css/)
+[<img src="/web/image-20240106121228423.png" alt="image-20240106121228423" style="zoom: 33%;" />](https://loading.io/css/)
 
-## HTML/CSS炫酷代码片段 copy
+## HTML/CSS 炫酷代码片段 copy
 
 - [Button | NavNav+](https://navnav.co/button)
 
-  [<img src="web/image-20240106123222446.png" alt="image-20240106123222446" style="zoom:33%;" />](https://navnav.co/button)
+  [<img src="/web/image-20240106123222446.png" alt="image-20240106123222446" style="zoom:33%;" />](https://navnav.co/button)
 
 - [CSS 炫酷效果代码 Copy](https://uiverse.io/)
 
-  [<img src="web/image-20240106120947866.png" alt="image-20240106120947866" style="zoom: 33%;" />](https://uiverse.io/)
+  [<img src="/web/image-20240106120947866.png" alt="image-20240106120947866" style="zoom: 33%;" />](https://uiverse.io/)
 
 ## UI 设计
 
 [CSS Zen Garden: CSS 设计之美](http://www.csszengarden.com/tr/zh-tw/214/)
 
-[<img src="web/image-20240106121349917.png" alt="image-20240106121349917" style="zoom: 33%;" />](http://www.csszengarden.com/tr/zh-tw/214/)
+[<img src="/web/image-20240106121349917.png" alt="image-20240106121349917" style="zoom: 33%;" />](http://www.csszengarden.com/tr/zh-tw/214/)
 
 [盒子模型 UI 设计](https://neumorphism.io/#e0e0e0)
 
-[<img src="web/image-20240106120247851.png" alt="image-20240106120247851" style="zoom: 33%;" />](https://neumorphism.io/#e0e0e0)
+[<img src="/web/image-20240106120247851.png" alt="image-20240106120247851" style="zoom: 33%;" />](https://neumorphism.io/#e0e0e0)
 
 [波浪生成器](https://getwaves.io/)
 
-[<img src="web/image-20240106121200617.png" alt="image-20240106121200617" style="zoom: 33%;" />](https://getwaves.io/)
+[<img src="/web/image-20240106121200617.png" alt="image-20240106121200617" style="zoom: 33%;" />](https://getwaves.io/)
 
 [CSS 渐变效果生成器](https://cssgradient.io/)
 
-[<img src="web/image-20240106121120979.png" alt="image-20240106121120979" style="zoom: 33%;" />](https://cssgradient.io/)
+[<img src="/web/image-20240106121120979.png" alt="image-20240106121120979" style="zoom: 33%;" />](https://cssgradient.io/)
 
 [颜色选择器](https://color.hailpixel.com/)
 
-[<img src="web/image-20240106121003348.png" alt="image-20240106121003348" style="zoom: 33%;" />](https://color.hailpixel.com/)
+[<img src="/web/image-20240106121003348.png" alt="image-20240106121003348" style="zoom: 33%;" />](https://color.hailpixel.com/)
 
 [友好的调色板](https://fffuel.co/pppalette/)
 
-[<img src="web/image-20240106132101697.png" alt="image-20240106132101697" style="zoom:33%;" />](https://fffuel.co/pppalette/)
+[<img src="/web/image-20240106132101697.png" alt="image-20240106132101697" style="zoom:33%;" />](https://fffuel.co/pppalette/)
 
 [AI Color,主题色设计搭配](https://aicolors.co/)
 
-[<img src="web/image-20240106131945698.png" alt="image-20240106131945698" style="zoom:33%;" />](https://aicolors.co/)
+[<img src="/web/image-20240106131945698.png" alt="image-20240106131945698" style="zoom:33%;" />](https://aicolors.co/)
 
 [UISET](https://uiset.com/)
 
-[<img src="web/image-20240106132227863.png" alt="image-20240106132227863" style="zoom:33%;" />](https://uiset.com/)
+[<img src="/web/image-20240106132227863.png" alt="image-20240106132227863" style="zoom:33%;" />](https://uiset.com/)
 
 [产品花园](https://huayuan.pixcall.com/)
 
-[<img src="web/image-20240106132156656.png" alt="image-20240106132156656" style="zoom:33%;" />](https://huayuan.pixcall.com/)
+[<img src="/web/image-20240106132156656.png" alt="image-20240106132156656" style="zoom:33%;" />](https://huayuan.pixcall.com/)
 
 ## 语义化标签
 
 [HTML5 元素标签含义大全(元素周期表)Hulkye](https://hulkye.github.io/html5tags/)
 
-[<img src="web/image-20240106121622725.png" alt="image-20240106121622725" style="zoom: 33%;" />](https://hulkye.github.io/html5tags/)
+[<img src="/web/image-20240106121622725.png" alt="image-20240106121622725" style="zoom: 33%;" />](https://hulkye.github.io/html5tags/)
 
 ## TypeScript
 
