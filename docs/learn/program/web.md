@@ -125,6 +125,7 @@
 
 :::
 
+- [ TypeScript 阮一峰 教程](https://typescript.p6p.net/)
 - [TypeScript 官方中文文档](https://www.tslang.cn/docs/home.html)
 - [TypeScript 入门教程](http://ts.xcatliu.com/introduction/index.html)
 - [深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/#why)
