@@ -7,6 +7,10 @@
 
 ## 算法 leetcode
 
+[JavaScript 算法与数据结构](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md)
+
+[<img src="/expand/image-20240118175430344.png" alt="image-20240118175430344" style="zoom:33%;" />](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md)
+
 [代码随想录 ](https://www.programmercarl.com/)
 
 [LintCode 炼码 - ChatGPT！更高效的学习体验！](https://www.lintcode.com/chat-gpt?utm_source=tf-github-xhGPT)

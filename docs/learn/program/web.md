@@ -174,11 +174,19 @@
 
 [Cesium 官方 API 文档](https://cesium.com/learn/cesiumjs/ref-doc/index.html)
 
+[Cesium中文api文档 ](http://cesium.xin/cesium/cn/Documentation1.62/index.html)
+
 [Cesium 入门教程文档](http://syzdev.cn/cesium-docs/)
 
 <!-- [Cesium入门教程文档 本地化](http://syzdev.cn/cesium-docs/) -->
 
 [哔哩哔哩视频入门](https://space.bilibili.com/597185371/channel/series)
+
+[geojson在线调试](https://geojson.io/#map=2/18.99/94.79)
+
+[纹理图下载](https://www.solarsystemscope.com/textures/)
+
+[cesium怎么学习，新手感觉无从下手，有没有什么资料或者教程？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/476626153)
 
 ## 低代码引擎
 
