@@ -25,3 +25,9 @@
 ## AI 镜像资源
 
 - AI 镜像站点汇总，如果上面的 AI 工具不能用了，失效了，到这里面去找能用的：https://gitee.com/click33/chatgpt---mirror-station-summary
+
+
+
+## Github资料
+
+https://github.com/fighting41love/funNLP?tab=readme-ov-file
