@@ -5,16 +5,6 @@
 点击右上角交流群加入群聊
 :::
 
-## 计算机科学速成课
-
-非常推荐的课程
-
-[<img src="/expand/image-20240130130849756.png" alt="image-20240130130849756" style="zoom:33%;" />](https://www.bilibili.com/video/BV1EW411u7th/?p=1)
-
-[石墨文档](https://shimo.im/docs/PJAUY30F1uYksv0h/read)
-
-[![image-20240130131003573](/expand/image-20240130131003573.png)](https://shimo.im/docs/PJAUY30F1uYksv0h/read)
-
 ## 算法 leetcode
 
 [JavaScript 算法与数据结构](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md)

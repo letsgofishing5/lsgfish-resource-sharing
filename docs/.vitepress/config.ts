@@ -236,6 +236,14 @@ function learn() {
 function program() {
   return [
     {
+      text: "基石",
+      link: "/learn/program/cornerstone.md",
+    },
+    {
+      text: "编辑器IDE",
+      link: "/learn/program/ide.md",
+    },
+    {
       text: "前端",
       link: "/learn/program/web.md",
     },

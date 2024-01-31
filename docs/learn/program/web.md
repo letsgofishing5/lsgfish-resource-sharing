@@ -5,17 +5,11 @@
 点击右上角交流群加入群聊
 :::
 
-## 编辑器
+## 博客推荐
 
-### VScode
+[ChokCoco](https://home.cnblogs.com/u/coco1s/)
 
-[<img src="/web/image-20240124094941025.png" alt="image-20240124094941025" style="zoom:33%;" />](https://code.visualstudio.com/)
-
-[在线VScode](https://vscode.dev/)
-
-[常用的环境配置](./ideEnviroment#前端开发环境配置)
-
-## 第三方文档站点
+[<img src="/web/image-20240131102156552.png" alt="image-20240131102156552" style="zoom:33%;" />](https://www.cnblogs.com/coco1s)
 
 [铭哥前端教程](https://learn.fuming.site/)
 
@@ -42,6 +36,10 @@
   [<img src="/web/image-20240106122744408.png" alt="image-20240106122744408" style="zoom:33%;" />](https://developer.mozilla.org/zh-CN/)
 
 ## CSS 在线练习
+
+- [CSS 奇技淫巧，推荐](https://github.com/chokcoco/iCSS)
+
+  [<img src="/web/image-20240131101910644.png" alt="image-20240131101910644" style="zoom:33%;" />](https://github.com/chokcoco/iCSS)
 
 - [CSS 选择器练习](https://flukeout.github.io/)
 
@@ -182,21 +180,31 @@
 
 [GIS 英汉词典](http://zhihu.geoscene.cn/article/3633)
 
+[<img src="/web/image-20240131102709237.png" alt="image-20240131102709237" style="zoom:33%;" />](http://zhihu.geoscene.cn/article/3633)
+
 [Cesium 官方 API 文档](https://cesium.com/learn/cesiumjs/ref-doc/index.html)
 
-[Cesium中文api文档 ](http://cesium.xin/cesium/cn/Documentation1.62/index.html)
+[Cesium 中文 api 文档 ](http://cesium.xin/cesium/cn/Documentation1.62/index.html)
 
 [Cesium 入门教程文档](http://syzdev.cn/cesium-docs/)
+
+[<img src="/web/image-20240131102636937.png" alt="image-20240131102636937" style="zoom:33%;" />](http://syzdev.cn/cesium-docs/)
 
 <!-- [Cesium入门教程文档 本地化](http://syzdev.cn/cesium-docs/) -->
 
 [哔哩哔哩视频入门](https://space.bilibili.com/597185371/channel/series)
 
-[geojson在线调试](https://geojson.io/#map=2/18.99/94.79)
+[<img src="/web/image-20240131102522904.png" alt="image-20240131102522904" style="zoom:33%;" />](https://space.bilibili.com/597185371/channel/series)
+
+[geojson 在线调试](https://geojson.io/#map=2/18.99/94.79)
+
+[<img src="/web/image-20240131102424668.png" alt="image-20240131102424668" style="zoom:33%;" />](https://geojson.io/#map=2/18.99/94.79)
 
 [纹理图下载](https://www.solarsystemscope.com/textures/)
 
-[cesium怎么学习，新手感觉无从下手，有没有什么资料或者教程？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/476626153)
+[<img src="/web/image-20240131102344004.png" alt="image-20240131102344004" style="zoom:33%;" />](https://www.solarsystemscope.com/textures/)
+
+[cesium 怎么学习，新手感觉无从下手，有没有什么资料或者教程？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/476626153)
 
 ## 低代码引擎
 
