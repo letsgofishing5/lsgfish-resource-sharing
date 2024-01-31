@@ -5,13 +5,21 @@
   "repository": "https://gitee.com/lets-go-fishing/lsgfish-resource-sharing.git",
   "author": "Lsgofish <1113237401@qq.com>",
   "license": "MIT",
+  "type": "module",
   "scripts": {
     "dev": "vitepress dev docs",
     "build": "vitepress build docs",
     "docs:serve": "vitepress serve docs",
-    "pub": "yarn build && git add -A && git commit -m 'update' && git push origin master"
+    "pub": "yarn build && git add -A && git commit -m 'update' && git push origin master",
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
   },
   "devDependencies": {
-    "vitepress": "1.0.0-alpha.26"
+    "vitepress": "^1.0.0-rc.40"
+  },
+  "dependencies": {
+    "pagefind": "^1.0.4",
+    "vitepress-plugin-pagefind": "^0.2.10"
   }
 }

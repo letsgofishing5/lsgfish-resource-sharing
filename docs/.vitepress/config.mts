@@ -1,4 +1,5 @@
 import { defineConfig } from "vitepress";
+import { pagefindPlugin } from 'vitepress-plugin-pagefind'
 export default defineConfig({
   base: "/lsgfish-resource-sharing/",
   title: "资源收藏与分享",
@@ -6,6 +7,9 @@ export default defineConfig({
   description: "收集学习，娱乐资源",
   head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
   themeConfig: {
+    search: {
+      provider: 'local'
+    },
     editLink: {
       pattern:
         "https://gitee.com/lets-go-fishing/lsgfish-resource-sharing/issues",
