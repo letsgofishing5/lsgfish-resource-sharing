@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as s,V as n}from"./chunks/framework.dKPAlGuN.js";const m=JSON.parse('{"title":"白嫖万岁","description":"","frontmatter":{},"headers":[],"relativePath":"utils/piao.md","filePath":"utils/piao.md"}'),t={name:"utils/piao.md"},r=n("",11),p=[r];function i(l,o,c,d,h,_){return s(),e("div",null,p)}const b=a(t,[["render",i]]);export{m as __pageData,b as default};

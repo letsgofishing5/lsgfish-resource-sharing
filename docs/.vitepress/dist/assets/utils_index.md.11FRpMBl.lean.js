@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as r,V as t}from"./chunks/framework.dKPAlGuN.js";const m=JSON.parse('{"title":"工具","description":"","frontmatter":{},"headers":[],"relativePath":"utils/index.md","filePath":"utils/index.md"}'),l={name:"utils/index.md"},o=t("",25),i=[o];function s(h,n,c,u,d,b){return r(),a("div",null,i)}const f=e(l,[["render",s]]);export{m as __pageData,f as default};

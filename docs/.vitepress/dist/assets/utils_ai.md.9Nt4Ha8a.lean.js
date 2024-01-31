@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as t,V as r}from"./chunks/framework.dKPAlGuN.js";const f=JSON.parse('{"title":"AI 工具","description":"","frontmatter":{},"headers":[],"relativePath":"utils/ai.md","filePath":"utils/ai.md"}'),i={name:"utils/ai.md"},l=r("",11),o=[l];function h(s,n,c,d,u,_){return t(),e("div",null,o)}const p=a(i,[["render",h]]);export{f as __pageData,p as default};
