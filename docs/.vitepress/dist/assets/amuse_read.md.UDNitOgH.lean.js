@@ -1,1 +1,0 @@
-import{_ as a,c as e,o as r,V as t}from"./chunks/framework.dKPAlGuN.js";const m=JSON.parse('{"title":"阅读","description":"","frontmatter":{},"headers":[],"relativePath":"amuse/read.md","filePath":"amuse/read.md"}'),o={name:"amuse/read.md"},s=t("",14),l=[s];function i(p,h,c,n,d,_){return r(),e("div",null,l)}const b=a(o,[["render",i]]);export{m as __pageData,b as default};
