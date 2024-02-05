@@ -248,6 +248,10 @@ function learn() {
       link: "/learn/medical/medical.md",
     },
     {
+      text: "数学乐",
+      link: "https://www.shuxuele.com/index.html",
+    },
+    {
       text: "文学",
       items: literature(),
     },
