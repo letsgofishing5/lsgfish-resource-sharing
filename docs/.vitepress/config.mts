@@ -284,6 +284,10 @@ function program() {
       link: "/learn/program/expand.md",
     },
     {
+      text: "编程知识速查手册",
+      link: "https://lets-go-fishing.gitee.io/quick-check/",
+    },
+    {
       text: "书栈网 开源编程书籍",
       link: "https://www.bookstack.cn/",
     },
