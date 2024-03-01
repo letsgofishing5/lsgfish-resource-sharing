@@ -146,6 +146,7 @@
 
 :::
 
+- [会写 TypeScript 但你真的会 TS 编译配置吗？-typescript omit (51cto.com)](https://www.51cto.com/article/694463.html)
 - [一篇让你完全够用 TS(TypeScript)的指南](https://zhuanlan.zhihu.com/p/505175155)
 
 ## 桌面端构建
@@ -211,3 +212,7 @@
 - [go-view](https://gitee.com/dromara/go-view?_from=gitee_search)
 
 - [阿里低代码引擎](https://lowcode-engine.cn/)
+
+### 文章阅读
+
+- [Tag: 低代码 | Qborfy知识库](https://qborfy.com/tags/低代码/)
