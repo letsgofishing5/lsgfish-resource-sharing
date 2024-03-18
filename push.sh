@@ -28,6 +28,7 @@ if  ! git diff --quiet --exit-code; then
 fi
 
 echo "=== Git Push ==="
-git push origin  ${3:- 'master'} 
+current_branch=$(git rev-parse --abbrev-ref HEAD)
+git push origin  ${3:- $current_branch}
 
 echo "=== Script Finished ==="

@@ -280,6 +280,10 @@ function program() {
       link: "/learn/program/serve.md",
     },
     {
+      text: "快查",
+      link: "https://wangchujiang.com/reference/",
+    },
+    {
       text: "技能扩展",
       link: "/learn/program/expand.md",
     },
