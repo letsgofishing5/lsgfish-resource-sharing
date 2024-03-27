@@ -5,7 +5,25 @@
 点击右上角交流群加入群聊
 :::
 
+
+
 ## 小说阅读app
+
+#### 在线搜索
+
+:::tip
+可提供下载服务，可以下载到本地观看
+:::
+
+
+
+[Taco搜索-Taco Search-一个专注知识文档搜索的引擎 (tacoso.cc)](https://www.tacoso.cc/)
+
+[<img src="/read/image-20240327215950221.png" alt="image-20240327215950221" style="zoom:33%;" />](https://www.tacoso.cc/)
+
+[Jiumo Search 鸠摩搜索 - 文档搜索引擎 (jiumodiary.com)](https://www.jiumodiary.com/)
+
+[<img src="/read/image-20240327220001422.png" alt="image-20240327220001422" style="zoom:33%;" />](https://www.jiumodiary.com/)
 
 #### 开源阅读
 
@@ -31,3 +49,13 @@
 
 下载：https://wwp.lanzoue.com/iyKgI0etvqta
 密码:6web
+
+#### 在线搜索
+
+:::tip
+可提供下载服务，可以下载到本地观看
+:::
+
+[漫自由mhx12_epub漫畫Kindle漫畫下载](https://www.mhx12.com/)
+
+[<img src="/read/image-20240327220612158.png" alt="image-20240327220612158" style="zoom:33%;" />](https://www.mhx12.com/)
