@@ -58,4 +58,5 @@
 
 [漫自由mhx12_epub漫畫Kindle漫畫下载](https://www.mhx12.com/)
 
-[<img src="/read/image-20240327220612158.png" alt="image-20240327220612158" style="zoom:33%;" />](https://www.mhx12.com/)
+[<img src="/read/image-20240330105722736.png" alt="image-20240330105722736" style="zoom:33%;" />](https://www.mhx12.com/)
+
