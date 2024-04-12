@@ -56,12 +56,7 @@ export default defineConfig({
       },
       {
         text: "群友的个人站点",
-        items: [
-          {
-            text: "群友默默的站点",
-            link: "https://static-mp-00526be3-cd12-41bd-84f7-bfbce63bb7d0.next.bspapp.com/MyProject/dist/index.html",
-          },
-        ]
+        items: groupFriends()
       },
       {
         text: "第三方资源站点链接",
@@ -138,14 +133,8 @@ function createPublicSiderNav() {
       ],
     },
     {
-      text: "群友分享",
-      items: [
-        {
-          text: "群友默默的分享",
-          // link: "https://static-mp-00526be3-cd12-41bd-84f7-bfbce63bb7d0.next.bspapp.com/MyProject/momo.html",
-          link: "https://static-mp-00526be3-cd12-41bd-84f7-bfbce63bb7d0.next.bspapp.com/MyProject/dist/index.html"
-        },
-      ],
+      text: "群友的个人站点",
+      items: groupFriends()
     },
     {
       text: "交流群",
@@ -157,6 +146,14 @@ function createPublicSiderNav() {
       ],
     },
   ];
+}
+function groupFriends() {
+  return [
+    {
+      text: "群友默默的站点",
+      link: "https://static-mp-00526be3-cd12-41bd-84f7-bfbce63bb7d0.next.bspapp.com/MyProject/dist/index.html"
+    },
+  ]
 }
 /**
  * 工具
