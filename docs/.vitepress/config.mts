@@ -59,7 +59,7 @@ export default defineConfig({
         items: [
           {
             text: "群友默默的站点",
-            link: "https://static-mp-00526be3-cd12-41bd-84f7-bfbce63bb7d0.next.bspapp.com/MyProject/momo.html",
+            link: "https://static-mp-00526be3-cd12-41bd-84f7-bfbce63bb7d0.next.bspapp.com/MyProject/dist/index.html",
           },
         ]
       },
