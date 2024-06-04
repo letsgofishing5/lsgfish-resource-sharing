@@ -129,6 +129,10 @@
 
 [<img src="/web/image-20240106121622725.png" alt="image-20240106121622725" style="zoom: 33%;" />](https://hulkye.github.io/html5tags/)
 
+## 字体库
+
+Fontsource 是一系列开源字体的集合，这些字体被打包成独立的 npm 包，你可以在官网选择字体后将对应字体包引入项目使用：https://fontsource.org/
+
 ## TypeScript
 
 ### 在线文档
