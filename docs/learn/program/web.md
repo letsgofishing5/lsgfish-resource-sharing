@@ -217,6 +217,10 @@ Fontsource 是一系列开源字体的集合，这些字体被打包成独立的
 
 [cesium 怎么学习，新手感觉无从下手，有没有什么资料或者教程？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/476626153)
 
+### cesium资源
+
+[在线示例代码](http://www.zgeo.work/cesiumTx/examples/index.html#baseDemo)
+
 ## 低代码引擎
 
 - [go-view](https://gitee.com/dromara/go-view?_from=gitee_search)
