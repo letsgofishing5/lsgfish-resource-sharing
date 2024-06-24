@@ -1,34 +1,34 @@
 import { defineConfig } from "vitepress";
-import { pagefindPlugin } from 'vitepress-plugin-pagefind'
+import { pagefindPlugin } from "vitepress-plugin-pagefind";
 export default defineConfig({
   base: "/lsgfish-resource-sharing/",
   title: "资源收藏与分享",
   lang: "zh-CN",
   description: "收集学习，娱乐资源",
-  head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
+  head: [["link", { rel: "icon", href: "/favicon.ico" }]],
   themeConfig: {
     search: {
-      provider: 'local',
+      provider: "local",
       options: {
         locales: {
           zh: {
             translations: {
               button: {
-                buttonText: '搜索文档',
-                buttonAriaLabel: '搜索文档'
+                buttonText: "搜索文档",
+                buttonAriaLabel: "搜索文档",
               },
               modal: {
-                noResultsText: '无法找到相关结果',
-                resetButtonTitle: '清除查询条件',
+                noResultsText: "无法找到相关结果",
+                resetButtonTitle: "清除查询条件",
                 footer: {
-                  selectText: '选择',
-                  navigateText: '切换'
-                }
-              }
-            }
-          }
-        }
-      }
+                  selectText: "选择",
+                  navigateText: "切换",
+                },
+              },
+            },
+          },
+        },
+      },
     },
     editLink: {
       pattern:
@@ -56,7 +56,7 @@ export default defineConfig({
       },
       {
         text: "群友的个人站点",
-        items: groupFriends()
+        items: groupFriends(),
       },
       {
         text: "第三方资源站点链接",
@@ -134,7 +134,7 @@ function createPublicSiderNav() {
     },
     {
       text: "群友的个人站点",
-      items: groupFriends()
+      items: groupFriends(),
     },
     {
       text: "交流群",
@@ -152,9 +152,9 @@ function groupFriends() {
     {
       text: "群友默默的站点",
       // link: "https://static-mp-00526be3-cd12-41bd-84f7-bfbce63bb7d0.next.bspapp.com/MyProject/dist/index.html"
-      link: "https://muxidream.cn"
+      link: "https://muxidream.cn",
     },
-  ]
+  ];
 }
 /**
  * 工具
@@ -200,7 +200,7 @@ function utils() {
     },
     {
       text: "V-P-N",
-      link: "https://xrelay.net/#/register?code=q8RiaKoF",
+      link: "https://crelay.net#/register?code=q8RiaKoF",
     },
   ];
 }
