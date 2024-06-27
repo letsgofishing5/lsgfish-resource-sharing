@@ -279,8 +279,8 @@ function program() {
       link: "/learn/program/serve.md",
     },
     {
-      text: "快查",
-      link: "https://wangchujiang.com/reference/",
+      text: "软考资料",
+      link: "https://gitee.com/zaonai/system_architect",
     },
     {
       text: "技能扩展",
@@ -288,7 +288,7 @@ function program() {
     },
     {
       text: "编程知识速查手册",
-      link: "https://lets-go-fishing.gitee.io/quick-check/",
+      link: "https://wangchujiang.com/reference/",
     },
     {
       text: "书栈网 开源编程书籍",
