@@ -5,6 +5,12 @@
 点击右上角交流群加入群聊
 :::
 
+## 在线ps
+
+[Photopea | Online Photo Editor](https://www.photopea.com/)
+
+[<img src="/picture/image-20240729172415132.png" alt="image-20240729172415132" style="zoom:33%;" />](https://www.photopea.com/)
+
 ## 图片压缩
 
 图片压缩（非常好用）：[Squoosh](https://squoosh.app/)
