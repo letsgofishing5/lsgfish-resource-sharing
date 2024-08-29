@@ -1,1 +1,0 @@
-import{_ as e,c as r,o as a,V as t}from"./chunks/framework.wG1Aqgru.js";const f=JSON.parse('{"title":"第三方资源链接","description":"","frontmatter":{},"headers":[],"relativePath":"third/index.md","filePath":"third/index.md"}'),o={name:"third/index.md"},i=t("",9),l=[i];function n(s,h,c,p,u,d){return a(),r("div",null,l)}const b=e(o,[["render",n]]);export{f as __pageData,b as default};

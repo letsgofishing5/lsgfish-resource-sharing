@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as r,V as o}from"./chunks/framework.wG1Aqgru.js";const d=JSON.parse('{"title":"搜索引擎","description":"","frontmatter":{},"headers":[],"relativePath":"utils/search.md","filePath":"utils/search.md"}'),a={name:"utils/search.md"},c=o("",12),l=[c];function s(p,n,_,i,h,u){return r(),t("div",null,l)}const f=e(a,[["render",s]]);export{d as __pageData,f as default};
