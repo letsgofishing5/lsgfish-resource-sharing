@@ -5,6 +5,14 @@
 点击右上角交流群加入群聊
 :::
 
+## 打包工具
+
+### rspack
+
+[地址：](https://rspack.dev/zh/)https://rspack.dev/zh/
+
+
+
 ## 博客推荐
 
 [ChokCoco](https://home.cnblogs.com/u/coco1s/)
