@@ -195,8 +195,8 @@ function utils() {
       link: "/utils/piao.md",
     },
     {
-      text: "在线文件共享",
-      link: "https://www.wenshushu.cn/",
+      text: "网页工具",
+      link: "/utils/online.md",
     },
     {
       text: "V-P-N",
