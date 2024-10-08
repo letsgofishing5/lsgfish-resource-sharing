@@ -25,6 +25,7 @@
 - [李文周的博客](https://www.liwenzhou.com/posts/Go/golang-menu/)
 - [煎鱼 (eddycjy.com)](https://eddycjy.com/)
 - [🐶❤️🦀 | Go&Rust🦀 (mojotv.cn)](https://mojotv.cn/)
+- https://www.mszlu.com/
 
 #### 视频教程
 
