@@ -279,6 +279,10 @@ function program() {
       link: "/learn/program/serve.md",
     },
     {
+      text: "PPT",
+      link: "/learn/program/ppt.md",
+    },
+    {
       text: "软考资料",
       link: "https://gitee.com/zaonai/system_architect",
     },
