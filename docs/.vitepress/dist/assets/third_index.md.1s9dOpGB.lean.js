@@ -1,0 +1,1 @@
+import{_ as e,c as r,o as a,V as t}from"./chunks/framework.otPNtje6.js";const f=JSON.parse('{"title":"第三方资源链接","description":"","frontmatter":{},"headers":[],"relativePath":"third/index.md","filePath":"third/index.md"}'),o={name:"third/index.md"},s=t("",11),i=[s];function n(l,c,h,p,u,_){return a(),r("div",null,i)}const b=e(o,[["render",n]]);export{f as __pageData,b as default};
