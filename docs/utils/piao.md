@@ -5,6 +5,14 @@
 点击右上角交流群加入群聊
 :::
 
+## 在线文件共享
+
+https://www.wenshushu.cn/
+
+## CSDN 文章破解
+
+https://www.niupizhiyuan.com/download.html
+
 ## 文献下载
 
 ```
@@ -26,14 +34,10 @@ read:https://blog.csdn.net/qq_40947819/article/details/109364449
 
 [用户脚本 (greasyfork.org)](https://greasyfork.org/zh-CN/scripts)，一统白嫖天下
 
-
-
 ## 网页去视频广告
 
 浏览器安装 AdGuard 插件
 
-
-
 ## 视频超速播放
 
-浏览器安装 Global speed 插件。用超快的16倍速度，度过广告时光 **nice**
+浏览器安装 Global speed 插件。用超快的 16 倍速度，度过广告时光 **nice**

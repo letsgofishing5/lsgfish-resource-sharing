@@ -7,11 +7,3 @@
 点击右上角交流群加入群聊
 
 :::
-
-## 在线文件共享
-
-https://www.wenshushu.cn/
-
-## CSDN 文章破解
-
-https://www.niupizhiyuan.com/download.html
