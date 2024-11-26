@@ -5,6 +5,20 @@
 点击右上角交流群加入群聊
 :::
 
+## Screenity
+
+完全免费、功能强大的视频录制开源工具。
+
+它支持在屏幕上任意位置进行录制，还可以开启摄像头真人出镜，可录制麦克风或系统声音，无限制时长，想录多久就多久。
+
+https://github.com/alyssaxuu/screenity
+
+## Voice-Pro
+
+开源免费的视频翻译工具：**Voice-Pro**，集转录、翻译和文字转语音为一体。
+
+https://github.com/abus-aikorea/voice-pro
+
 ## 在线ps
 
 [Photopea | Online Photo Editor](https://www.photopea.com/)
