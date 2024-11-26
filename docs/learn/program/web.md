@@ -193,7 +193,17 @@ Fontsource 是一系列开源字体的集合，这些字体被打包成独立的
 
 ## ThreeJS
 
-[three.js 中文教程](https://www.three3d.cn/docs/index.html)
+[入门概念](https://github.com/sundjly/blog/blob/master/%E5%B7%A5%E4%BD%9C/three.js%E5%BF%AB%E9%80%9F%E4%B8%8A%E6%89%8B.md)
+
+[官方文档](https://threejs.org/docs/index.html#manual/zh/introduction/Creating-a-scene)
+
+[在线编辑器](https://threejs.org/editor/)
+
+[入门跟随官方小案例](https://github.com/puxiao/threejs-tutorial)
+
+[物理引擎](http://www.webgl3d.cn/pages/e48d3c/)
+
+
 
 ## Cesium
 
