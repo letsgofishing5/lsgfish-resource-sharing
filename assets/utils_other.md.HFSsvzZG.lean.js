@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,V as r}from"./chunks/framework.1v6yjs5_.js";const u=JSON.parse('{"title":"其他","description":"","frontmatter":{},"headers":[],"relativePath":"utils/other.md","filePath":"utils/other.md"}'),o={name:"utils/other.md"},s=r("",3),_=[s];function n(c,i,h,d,l,p){return a(),t("div",null,_)}const m=e(o,[["render",n]]);export{u as __pageData,m as default};
